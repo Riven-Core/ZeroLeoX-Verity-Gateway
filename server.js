@@ -38,7 +38,7 @@ function json(res, status, data) {
     "content-length": Buffer.byteLength(body),
     "access-control-allow-origin": "*",
     "access-control-allow-headers": "content-type, authorization",
-    "access-control-allow-methods": "POST,GET,OPTIONS"
+    "access-control-allow-methods": "POST,GET,OPTIONS",
   });
   res.end(body);
 }
@@ -48,7 +48,7 @@ function readBody(req) {
     let data = "";
     let size = 0;
 
-    req.on("data", chunk => {
+    req.on("data", (chunk) => {
       size += chunk.length;
       if (size > 64 * 1024) {
         req.destroy();
@@ -78,9 +78,9 @@ function authorized(req) {
 function normalizeHistory(history) {
   if (!Array.isArray(history)) return [];
 
-  return history.slice(-12).map(x => ({
+  return history.slice(-12).map((x) => ({
     role: x?.role === "assistant" ? "model" : "user",
-    parts: [{ text: String(x?.content ?? "").slice(0, 4000) }]
+    parts: [{ text: String(x?.content ?? "").slice(0, 4000) }],
   }));
 }
 
@@ -91,45 +91,43 @@ async function callGemini(system, history, playerText) {
 
   const contents = [
     ...history,
-    { role: "user", parts: [{ text: playerText }] }
+    { role: "user", parts: [{ text: playerText }] },
   ];
 
   // IMPORTANT:
   // Gemini authorization keys (AQ...) are sent in x-goog-api-key.
   // Do not put the key in the URL query string.
-  const url =
-    `${GEMINI_URL}/${encodeURIComponent(GEMINI_MODEL)}:generateContent`;
+  const url = `${GEMINI_URL}/${encodeURIComponent(
+    GEMINI_MODEL
+  )}:generateContent`;
 
   const response = await fetch(url, {
     method: "POST",
     headers: {
       "content-type": "application/json",
-      "x-goog-api-key": GEMINI_API_KEY
+      "x-goog-api-key": GEMINI_API_KEY,
     },
     body: JSON.stringify({
       systemInstruction: {
-        parts: [{ text: system }]
+        parts: [{ text: system }],
       },
       contents,
       generationConfig: {
         temperature: 0.8,
-        maxOutputTokens: 300
-      }
-    })
+        maxOutputTokens: 300,
+      },
+    }),
   });
 
   const data = await response.json().catch(() => ({}));
 
   if (!response.ok) {
-    throw new Error(
-      data?.error?.message || `Gemini HTTP ${response.status}`
-    );
+    throw new Error(data?.error?.message || `Gemini HTTP ${response.status}`);
   }
 
   return (
-    data?.candidates?.[0]?.content?.parts
-      ?.map(x => x.text || "")
-      .join("") || ""
+    data?.candidates?.[0]?.content?.parts?.map((x) => x.text || "").join("") ||
+    ""
   );
 }
 
@@ -145,7 +143,7 @@ const server = http.createServer(async (req, res) => {
     res.writeHead(204, {
       "access-control-allow-origin": "*",
       "access-control-allow-headers": "content-type, authorization",
-      "access-control-allow-methods": "POST,GET,OPTIONS"
+      "access-control-allow-methods": "POST,GET,OPTIONS",
     });
     return res.end();
   }
@@ -155,7 +153,7 @@ const server = http.createServer(async (req, res) => {
       ok: true,
       service: "ZeroLeoX Verity Gateway",
       provider: "gemini",
-      model: GEMINI_MODEL
+      model: GEMINI_MODEL,
     });
   }
 
@@ -190,12 +188,12 @@ Current Verity mood: ${mood}/100.
       ok: true,
       requestId: crypto.randomUUID(),
       reply: cleanReply(answer),
-      mood
+      mood,
     });
   } catch (err) {
     return json(res, 502, {
       ok: false,
-      error: String(err?.message || err)
+      error: String(err?.message || err),
     });
   }
 });
