@@ -4,7 +4,7 @@ import crypto from "node:crypto";
 const PORT = Number(process.env.PORT || 3000);
 const GATEWAY_TOKEN = process.env.GATEWAY_TOKEN || "";
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY || "";
-const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-3.6-flash";
+const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
 
 const GEMINI_URL =
   process.env.GEMINI_URL ||
@@ -39,7 +39,7 @@ RESPONSE FORMAT:
 Your final response must start exactly with:
 <Riven>
 
-Do not write "Riven:.".
+Do not write "Riven:".
 Do not duplicate the prefix.
 Do not add another speaker name before it.
 `;
@@ -51,10 +51,8 @@ function json(res, status, data) {
     "content-type": "application/json; charset=utf-8",
     "content-length": Buffer.byteLength(body),
     "access-control-allow-origin": "*",
-    "access-control-allow-headers":
-      "content-type, authorization",
-    "access-control-allow-methods":
-      "POST,GET,OPTIONS",
+    "access-control-allow-headers": "content-type, authorization",
+    "access-control-allow-methods": "POST,GET,OPTIONS",
   });
 
   res.end(body);
@@ -110,9 +108,7 @@ function normalizeHistory(history) {
 
 async function callGemini(system, history, playerText) {
   if (!GEMINI_API_KEY) {
-    throw new Error(
-      "Gemini API key is not configured on the gateway."
-    );
+    throw new Error("Gemini API key is not configured on the gateway.");
   }
 
   const contents = [
@@ -161,8 +157,7 @@ async function callGemini(system, history, playerText) {
 
   if (!response.ok) {
     throw new Error(
-      data?.error?.message ||
-      `Gemini HTTP ${response.status}`
+      data?.error?.message || `Gemini HTTP ${response.status}`
     );
   }
 
@@ -215,7 +210,6 @@ const server = http.createServer(async (req, res) => {
 
   if (!authorized(req)) {
     return json(res, 401, {
-      ok: false,
       error: "Unauthorized",
     });
   }
@@ -235,13 +229,11 @@ const server = http.createServer(async (req, res) => {
 
     if (!playerText) {
       return json(res, 400, {
-        ok: false,
         error: "Empty message",
       });
     }
 
-    const system =
-      `${SYSTEM_BASE}\n\nUser name:\n${playerName}\n`;
+    const system = `${SYSTEM_BASE}\n\nUser name:\n${playerName}\n`;
 
     const history = normalizeHistory(body.history);
 
@@ -258,11 +250,14 @@ const server = http.createServer(async (req, res) => {
     });
 
   } catch (err) {
+    const errorMessage = String(err?.message || err);
 
-    const errorMessage =
-      String(err?.message || err);
+    const quotaExceeded =
+      /quota exceeded/i.test(errorMessage) ||
+      /rate limit/i.test(errorMessage) ||
+      /free_tier_requests/i.test(errorMessage) ||
+      /resource exhausted/i.test(errorMessage);
 
-    // Detectar el tiempo que Gemini indica para volver a intentar
     const retryMatch =
       errorMessage.match(/retry in ([0-9.]+)s/i);
 
@@ -270,19 +265,16 @@ const server = http.createServer(async (req, res) => {
     let retryAt = null;
 
     if (retryMatch) {
-      retryAfter =
-        Math.ceil(Number(retryMatch[1]));
-
-      retryAt =
-        Math.floor(Date.now() / 1000) +
-        retryAfter;
+      retryAfter = Math.ceil(Number(retryMatch[1]));
+      retryAt = Math.floor(Date.now() / 1000) + retryAfter;
     }
 
     return json(res, 502, {
       ok: false,
-      error: errorMessage,
-      retryAfter,
-      retryAt,
+      quotaExceeded: quotaExceeded,
+      retryAfter: retryAfter,
+      retryAt: retryAt,
+      error: errorMessage
     });
   }
 });
