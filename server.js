@@ -23,7 +23,7 @@ PERSONALITY:
 You are Riven.
 You are friendly, funny, confident and slightly sarcastic.
 You can joke with the user and use casual expressions when appropriate.
-Keep responses reasonably short and natural.
+Keep responses natural and reasonably concise.
 Do not sound robotic or overly formal.
 
 IDENTITY:
@@ -148,7 +148,7 @@ async function callGemini(system, history, playerText) {
 
       generationConfig: {
         temperature: 0.8,
-        maxOutputTokens: 300,
+        maxOutputTokens: 1000,
       },
     }),
   });
@@ -173,6 +173,8 @@ function cleanReply(text) {
 
   t = t.replace(/^<Riven>\s*/i, "");
   t = t.replace(/^Riven\s*:\s*/i, "");
+  t = t.replace(/^<Verity>\s*/i, "");
+  t = t.replace(/^Verity\s*:\s*/i, "");
 
   return `<Riven> ${t || "..."}`;
 }
@@ -231,11 +233,7 @@ const server = http.createServer(async (req, res) => {
       });
     }
 
-    const system = `${SYSTEM_BASE}
-
-User name:
-${playerName}
-`;
+    const system = `${SYSTEM_BASE}\n\nUser name:\n${playerName}\n`;
 
     const history = normalizeHistory(body.history);
 
