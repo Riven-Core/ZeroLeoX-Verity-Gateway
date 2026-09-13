@@ -285,7 +285,7 @@ async function gemini(id,name,msg){
       }],
       generationConfig:{
         temperature:0.7,
-        maxOutputTokens:500
+        maxOutputTokens:1000
       }
     },
     "Gemini",
@@ -313,7 +313,7 @@ async function groq(id,name,msg){
         content:prompt(id,name,msg)
       }],
       temperature:0.7,
-      max_completion_tokens:500
+      max_completion_tokens:1000
     },
     "Groq",
     12000
@@ -340,7 +340,7 @@ async function openrouter(id,name,msg){
         content:prompt(id,name,msg)
       }],
       temperature:0.7,
-      max_tokens:500
+      max_tokens:1000
     },
     "OpenRouter",
     12000
@@ -367,7 +367,7 @@ async function mistral(id,name,msg){
         content:prompt(id,name,msg)
       }],
       temperature:0.7,
-      max_tokens:500
+      max_tokens:1000
     },
     "Mistral",
     7000
@@ -416,7 +416,10 @@ async function ask(id,name,msg){
 
       console.log(`⚠️ ${nameProvider} falló: ${error}`);
 
-      if(nameProvider==="Mistral"&&error.includes("TIMEOUT")){
+      if(
+        nameProvider==="Mistral"&&
+        error.includes("TIMEOUT")
+      ){
         console.log("⏱️ Mistral superó los 7 segundos");
 
         provider="Mistral";
