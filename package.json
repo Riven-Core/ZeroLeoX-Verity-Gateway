@@ -3,7 +3,6 @@
   "version": "0.2.0",
   "private": true,
   "description": "Secure Gemini gateway for ZeroLeoX Verity",
-  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
