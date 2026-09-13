@@ -559,9 +559,12 @@ const server=http.createServer(async(req,res)=>{
           memory
         });
 
+        const response=`<Riven> Listo, recordaré: ${memory}`;
+
         return json(res,200,{
           ok:true,
-          reply:`<Riven> Listo, recordaré: ${memory}`,
+          response,
+          reply:response,
           provider:"memory"
         });
       }
@@ -581,9 +584,12 @@ const server=http.createServer(async(req,res)=>{
           memory
         });
 
+        const response="<Riven> Listo, olvidé ese recuerdo.";
+
         return json(res,200,{
           ok:true,
-          reply:"<Riven> Listo, olvidé ese recuerdo.",
+          response,
+          reply:response,
           provider:"memory"
         });
       }
@@ -591,11 +597,16 @@ const server=http.createServer(async(req,res)=>{
 
     if(
       /qué recuerdas de mí/i.test(message)||
-      /que recuerdas de mi/i.test(message)
+      /que recuerdas de mi/i.test(message)||
+      /que recuerdas de mí/i.test(message)||
+      /qué recuerdas de mi/i.test(message)
     ){
+      const response=`<Riven> Estos son tus recuerdos:\n${memoryText(userId)}`;
+
       return json(res,200,{
         ok:true,
-        reply:`<Riven> Estos son tus recuerdos:\n${memoryText(userId)}`,
+        response,
+        reply:response,
         provider:"memory"
       });
     }
@@ -631,6 +642,7 @@ const server=http.createServer(async(req,res)=>{
       name,
       message,
       response:reply,
+      reply,
       provider
     });
 
