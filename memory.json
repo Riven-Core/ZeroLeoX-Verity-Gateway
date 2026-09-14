@@ -32,6 +32,16 @@
           "role": "assistant",
           "content": "¡Hola! ¿Qué tal?",
           "timestamp": 1789354181039
+        },
+        {
+          "role": "user",
+          "content": "que recuerdas de mi?",
+          "timestamp": 1789354195873
+        },
+        {
+          "role": "assistant",
+          "content": "Por ahora no tengo ninguna memoria guardada sobre ti, excepto que eres mi creador",
+          "timestamp": 1789354200398
         }
       ]
     }
