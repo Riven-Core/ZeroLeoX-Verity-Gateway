@@ -16,16 +16,6 @@
         {
           "role": "user",
           "content": "Hola",
-          "timestamp": 1789354093660
-        },
-        {
-          "role": "assistant",
-          "content": "¡Hola! ¿Qué tal? ¿En qué te ayudo hoy?\"¡Hola",
-          "timestamp": 1789354098738
-        },
-        {
-          "role": "user",
-          "content": "Hola",
           "timestamp": 1789354180258
         },
         {
@@ -62,6 +52,16 @@
           "role": "assistant",
           "content": "¡Hola! ¿Cómo estás?",
           "timestamp": 1789355632590
+        },
+        {
+          "role": "user",
+          "content": "que tienes en tu memoria sobre mi?",
+          "timestamp": 1789355664211
+        },
+        {
+          "role": "assistant",
+          "content": "No tengo ninguna memoria guardada sobre ti, salvo que eres mi creador.",
+          "timestamp": 1789355664963
         }
       ]
     }
