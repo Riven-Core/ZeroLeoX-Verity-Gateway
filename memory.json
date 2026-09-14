@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Hola",
-          "timestamp": 1789356028826
-        },
-        {
-          "role": "assistant",
-          "content": "¡Hola! ¿Cómo estás?",
-          "timestamp": 1789356029497
-        },
-        {
-          "role": "user",
           "content": "que recuerdas de mi?",
           "timestamp": 1789356054614
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Hola! Estoy muy bien, gracias por preguntar. Listo para lo que necesites hoy. ¿Tú qué tal estás?",
           "timestamp": 1789397595085
+        },
+        {
+          "role": "user",
+          "content": "yo estoy bien jajaj",
+          "timestamp": 1789398063501
+        },
+        {
+          "role": "assistant",
+          "content": "¡Qué bien! ¿En qué puedo ayudarte hoy?",
+          "timestamp": 1789398070678
         }
       ]
     }
