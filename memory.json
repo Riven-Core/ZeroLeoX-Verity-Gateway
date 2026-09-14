@@ -17,14 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Acuerdate de que eres mi mejor creacion"
-        },
-        {
-          "role": "assistant",
-          "content": "Lo recordaré."
-        },
-        {
-          "role": "user",
           "content": "Hola",
           "timestamp": 1789356028826
         },
@@ -62,6 +54,16 @@
           "role": "assistant",
           "content": "Recuerdo que me consideras mi mejor creación y que eres mi creador, ZeroLeoX.",
           "timestamp": 1789359050209
+        },
+        {
+          "role": "user",
+          "content": "Como estas Hoy",
+          "timestamp": 1789397591959
+        },
+        {
+          "role": "assistant",
+          "content": "¡Hola! Estoy muy bien, gracias por preguntar. Listo para lo que necesites hoy. ¿Tú qué tal estás?",
+          "timestamp": 1789397595085
         }
       ]
     }
