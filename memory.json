@@ -22,6 +22,16 @@
         {
           "role": "assistant",
           "content": "Lo recordaré."
+        },
+        {
+          "role": "user",
+          "content": "Hola",
+          "timestamp": 1789356028826
+        },
+        {
+          "role": "assistant",
+          "content": "¡Hola! ¿Cómo estás?",
+          "timestamp": 1789356029497
         }
       ]
     }
