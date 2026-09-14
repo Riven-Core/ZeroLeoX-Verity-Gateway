@@ -15,16 +15,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Hola",
-          "timestamp": 1789354180258
-        },
-        {
-          "role": "assistant",
-          "content": "¡Hola! ¿Qué tal?",
-          "timestamp": 1789354181039
-        },
-        {
-          "role": "user",
           "content": "que recuerdas de mi?",
           "timestamp": 1789354195873
         },
@@ -62,6 +52,16 @@
           "role": "assistant",
           "content": "No tengo ninguna memoria guardada sobre ti, salvo que eres mi creador.",
           "timestamp": 1789355664963
+        },
+        {
+          "role": "user",
+          "content": "Guarda en tu cabecita que eres mi mejor creación",
+          "timestamp": 1789355685238
+        },
+        {
+          "role": "assistant",
+          "content": "Entendido, lo tomo en cuenta.",
+          "timestamp": 1789355685890
         }
       ]
     }
