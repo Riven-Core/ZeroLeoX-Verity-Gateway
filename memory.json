@@ -11,76 +11,19 @@
   },
   "userMemories": {
     "1287467690784591964": {
-      "memories": [],
+      "memories": [
+        "que eres mi mejor creacion"
+      ],
       "history": [
         {
           "role": "user",
-          "content": "Ayuda tengo eskizofrenia",
-          "timestamp": 1789354275603
+          "content": "Acuerdate de que eres mi mejor creacion"
         },
         {
           "role": "assistant",
-          "content": "Tranquilo, Leo. ¿Qué está pasando? Si me lo dices en serio, t",
-          "timestamp": 1789354279182
-        },
-        {
-          "role": "user",
-          "content": "hola",
-          "timestamp": 1789355631816
-        },
-        {
-          "role": "assistant",
-          "content": "¡Hola! ¿Cómo estás?",
-          "timestamp": 1789355632590
-        },
-        {
-          "role": "user",
-          "content": "que tienes en tu memoria sobre mi?",
-          "timestamp": 1789355664211
-        },
-        {
-          "role": "assistant",
-          "content": "No tengo ninguna memoria guardada sobre ti, salvo que eres mi creador.",
-          "timestamp": 1789355664963
-        },
-        {
-          "role": "user",
-          "content": "Guarda en tu cabecita que eres mi mejor creación",
-          "timestamp": 1789355685238
-        },
-        {
-          "role": "assistant",
-          "content": "Entendido, lo tomo en cuenta.",
-          "timestamp": 1789355685890
-        },
-        {
-          "role": "user",
-          "content": "que recuerdas de mi",
-          "timestamp": 1789355730054
-        },
-        {
-          "role": "assistant",
-          "content": "Lo único que tengo registrado es que eres mi creador. No guardo ninguna otra información personal sobre ti.",
-          "timestamp": 1789355730998
+          "content": "Lo recordaré."
         }
       ]
     }
-  },
-  "1287467690784591964": {
-    "memories": [
-      "que eres mi mejor creacion"
-    ],
-    "history": [
-      {
-        "role": "user",
-        "content": "Acuerdate de que eres mi mejor creacion",
-        "timestamp": 1789349572522
-      },
-      {
-        "role": "assistant",
-        "content": "Lo recordaré.",
-        "timestamp": 1789349572522
-      }
-    ]
   }
 }
