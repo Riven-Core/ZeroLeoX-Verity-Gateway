@@ -52,6 +52,16 @@
           "role": "assistant",
           "content": "¡Hola de nuevo! ¿Qué tal? ¿En qué te puedo ayudar hoy?",
           "timestamp": 1789359037779
+        },
+        {
+          "role": "user",
+          "content": "que recuerdas de mi?",
+          "timestamp": 1789359049726
+        },
+        {
+          "role": "assistant",
+          "content": "Recuerdo que me consideras mi mejor creación y que eres mi creador, ZeroLeoX.",
+          "timestamp": 1789359050209
         }
       ]
     }
