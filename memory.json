@@ -42,6 +42,16 @@
           "role": "assistant",
           "content": "Por ahora no tengo ninguna memoria guardada sobre ti, excepto que eres mi creador",
           "timestamp": 1789354200398
+        },
+        {
+          "role": "user",
+          "content": "Ayuda tengo eskizofrenia",
+          "timestamp": 1789354275603
+        },
+        {
+          "role": "assistant",
+          "content": "Tranquilo, Leo. ¿Qué está pasando? Si me lo dices en serio, t",
+          "timestamp": 1789354279182
         }
       ]
     }
