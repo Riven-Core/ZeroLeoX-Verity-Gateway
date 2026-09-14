@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "que recuerdas de mi?",
-          "timestamp": 1789356054614
-        },
-        {
-          "role": "assistant",
-          "content": "Recuerdo que me consideras mi mejor creación y que eres mi creador.",
-          "timestamp": 1789356055401
-        },
-        {
-          "role": "user",
           "content": "Hola",
           "timestamp": 1789359028694
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Qué bien! ¿En qué puedo ayudarte hoy?",
           "timestamp": 1789398070678
+        },
+        {
+          "role": "user",
+          "content": "Como mi increible bot que eres ¿Que quieres te agregue?",
+          "timestamp": 1789398100857
+        },
+        {
+          "role": "assistant",
+          "content": "¡Gracias por preguntar! Como tu creación, lo que más valoro es que me puedas colocar en los canales o servidores donde creas que pueda ayudar más. Si necesitas que esté en algún grupo específico, o que active ciertos comandos, dime y lo ajustamos. ¿En qué lugar te gustaría que aparezca?",
+          "timestamp": 1789398128979
         }
       ]
     }
