@@ -15,16 +15,6 @@
       "history": [
         {
           "role": "user",
-          "content": "que recuerdas de mi?",
-          "timestamp": 1789354195873
-        },
-        {
-          "role": "assistant",
-          "content": "Por ahora no tengo ninguna memoria guardada sobre ti, excepto que eres mi creador",
-          "timestamp": 1789354200398
-        },
-        {
-          "role": "user",
           "content": "Ayuda tengo eskizofrenia",
           "timestamp": 1789354275603
         },
@@ -62,6 +52,16 @@
           "role": "assistant",
           "content": "Entendido, lo tomo en cuenta.",
           "timestamp": 1789355685890
+        },
+        {
+          "role": "user",
+          "content": "que recuerdas de mi",
+          "timestamp": 1789355730054
+        },
+        {
+          "role": "assistant",
+          "content": "Lo único que tengo registrado es que eres mi creador. No guardo ninguna otra información personal sobre ti.",
+          "timestamp": 1789355730998
         }
       ]
     }
