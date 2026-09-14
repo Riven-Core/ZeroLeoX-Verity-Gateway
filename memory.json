@@ -9,7 +9,23 @@
       "name": "leonelb28402004"
     }
   },
-  "userMemories": {},
+  "userMemories": {
+    "1287467690784591964": {
+      "memories": [],
+      "history": [
+        {
+          "role": "user",
+          "content": "Hola",
+          "timestamp": 1789354093660
+        },
+        {
+          "role": "assistant",
+          "content": "¡Hola! ¿Qué tal? ¿En qué te ayudo hoy?\"¡Hola",
+          "timestamp": 1789354098738
+        }
+      ]
+    }
+  },
   "1287467690784591964": {
     "memories": [
       "que eres mi mejor creacion"
