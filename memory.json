@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Hola",
-          "timestamp": 1789359028694
-        },
-        {
-          "role": "assistant",
-          "content": "¡Hola de nuevo! ¿Qué tal? ¿En qué te puedo ayudar hoy?",
-          "timestamp": 1789359037779
-        },
-        {
-          "role": "user",
           "content": "que recuerdas de mi?",
           "timestamp": 1789359049726
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Gracias por preguntar! Como tu creación, lo que más valoro es que me puedas colocar en los canales o servidores donde creas que pueda ayudar más. Si necesitas que esté en algún grupo específico, o que active ciertos comandos, dime y lo ajustamos. ¿En qué lugar te gustaría que aparezca?",
           "timestamp": 1789398128979
+        },
+        {
+          "role": "user",
+          "content": "hola",
+          "timestamp": 1789400025234
+        },
+        {
+          "role": "assistant",
+          "content": "¡Hola! ¿Cómo estás hoy?",
+          "timestamp": 1789400026089
         }
       ]
     }
