@@ -42,6 +42,16 @@
           "role": "assistant",
           "content": "Recuerdo que me consideras mi mejor creación y que eres mi creador.",
           "timestamp": 1789356055401
+        },
+        {
+          "role": "user",
+          "content": "Hola",
+          "timestamp": 1789359028694
+        },
+        {
+          "role": "assistant",
+          "content": "¡Hola de nuevo! ¿Qué tal? ¿En qué te puedo ayudar hoy?",
+          "timestamp": 1789359037779
         }
       ]
     }
