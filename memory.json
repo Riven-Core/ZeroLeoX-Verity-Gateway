@@ -52,6 +52,16 @@
           "role": "assistant",
           "content": "Tranquilo, Leo. ¿Qué está pasando? Si me lo dices en serio, t",
           "timestamp": 1789354279182
+        },
+        {
+          "role": "user",
+          "content": "hola",
+          "timestamp": 1789355631816
+        },
+        {
+          "role": "assistant",
+          "content": "¡Hola! ¿Cómo estás?",
+          "timestamp": 1789355632590
         }
       ]
     }
