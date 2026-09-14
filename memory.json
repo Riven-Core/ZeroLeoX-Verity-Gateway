@@ -9,5 +9,22 @@
       "name": "leonelb28402004"
     }
   },
-  "userMemories": {}
+  "userMemories": {},
+  "1287467690784591964": {
+    "memories": [
+      "que eres mi mejor creacion"
+    ],
+    "history": [
+      {
+        "role": "user",
+        "content": "Acuerdate de que eres mi mejor creacion",
+        "timestamp": 1789349572522
+      },
+      {
+        "role": "assistant",
+        "content": "Lo recordaré.",
+        "timestamp": 1789349572522
+      }
+    ]
+  }
 }
