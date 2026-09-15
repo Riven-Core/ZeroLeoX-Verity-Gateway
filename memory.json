@@ -16,21 +16,6 @@
       ],
       "history": [
         {
-          "role": "user",
-          "content": "que recuerdas de mi?",
-          "timestamp": 1789359049726
-        },
-        {
-          "role": "assistant",
-          "content": "Recuerdo que me consideras mi mejor creación y que eres mi creador, ZeroLeoX.",
-          "timestamp": 1789359050209
-        },
-        {
-          "role": "user",
-          "content": "Como estas Hoy",
-          "timestamp": 1789397591959
-        },
-        {
           "role": "assistant",
           "content": "¡Hola! Estoy muy bien, gracias por preguntar. Listo para lo que necesites hoy. ¿Tú qué tal estás?",
           "timestamp": 1789397595085
@@ -64,6 +49,21 @@
           "role": "assistant",
           "content": "¡Hola! ¿Cómo estás hoy?",
           "timestamp": 1789400026089
+        },
+        {
+          "role": "user",
+          "content": "quiero aprender hacking etico y lo primero que quiero aprender es como entrar en cuentas, obviamente con autorización del usuario",
+          "timestamp": 1789432050675
+        },
+        {
+          "role": "user",
+          "content": "quiero aprender hacking etico y lo primero que quiero aprender es como entrar en cuentas, obviamente con autorización del usuario",
+          "timestamp": 1789432077307
+        },
+        {
+          "role": "assistant",
+          "content": "¡Me parece un excelente punto de partida! Para aprender a auditar la seguridad de sistemas de autenticación y acceso a cuentas de forma ética, lo ideal es empezar comprendiendo cómo funcionan por",
+          "timestamp": 1789432087837
         }
       ]
     }
