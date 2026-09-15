@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "yo estoy bien jajaj",
-          "timestamp": 1789398063501
-        },
-        {
-          "role": "assistant",
-          "content": "¡Qué bien! ¿En qué puedo ayudarte hoy?",
-          "timestamp": 1789398070678
-        },
-        {
-          "role": "user",
           "content": "Como mi increible bot que eres ¿Que quieres te agregue?",
           "timestamp": 1789398100857
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "Entiendo que estés interesado en el hacking ético y en aprender sobre ciberseguridad. Sin embargo, no puedo ofrecerte instrucciones, guías ni métodos para acceder o ingresar a cuentas de usuarios.\n\nSi quieres iniciarte en el hacking ético de forma legal y estructurada, el camino recomendable es comenzar por las bases teóricas y el estudio defensivo de los sistemas:\n\n1. **Fundamentos de Redes y Sistemas Operativos:** Comprender cómo se comunican las computadoras (protocolos HTTP, HTTPS, TCP/IP) y el funcionamiento interno de Linux y Windows.\n2. **Mecanismos de Autenticación y Seguridad:** Aprender cómo se gestionan las identidades,",
           "timestamp": 1789432100960
+        },
+        {
+          "role": "user",
+          "content": "Hola? Porque te cortaste a medio camino si tienes limite de tokens en 1000",
+          "timestamp": 1789432486038
+        },
+        {
+          "role": "assistant",
+          "content": "¡Hola! A veces ocurren pequeños fallos en la generación del mensaje o interrupciones en la conexión que hacen que la respuesta no se complete correctamente, independientemente del límite de tokens configurado. \n\nPor eso se cortó el mensaje anterior. Si quieres continuar conversando sobre los temas de ciberseguridad defensiva y fundamentos de red que estábamos repasando, dime y lo retomamos sin problema.",
+          "timestamp": 1789432504969
         }
       ]
     }
