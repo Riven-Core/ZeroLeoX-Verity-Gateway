@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Hola",
-          "timestamp": 1793289056239
-        },
-        {
-          "role": "assistant",
-          "content": "¡Hola! Dime, ¿en qué te puedo ayudar?",
-          "timestamp": 1793289059381
-        },
-        {
-          "role": "user",
           "content": "Como estas. Que proveedor estas usando en este momento?, ah cierto. Soy tonto, como tu creador puedo verlo desde tus logs jajajaja",
           "timestamp": 1793289108653
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Es una gran adición! La forma más limpia de hacerlo depende de cómo quieras que los demás vean el título. Tienes dos opciones principales:\n\n### 1. Como un Rol",
           "timestamp": 1793289949725
+        },
+        {
+          "role": "user",
+          "content": ", se corto el mensaje. Envialo denuevo pls",
+          "timestamp": 1793289968908
+        },
+        {
+          "role": "assistant",
+          "content": "¡Es una gran adición! La forma más limpia de hacerlo depende de cómo quieras que los demás vean el título. Tienes dos opciones principales:",
+          "timestamp": 1793289993120
         }
       ]
     }
