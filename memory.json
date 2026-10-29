@@ -16,16 +16,6 @@
       ],
       "history": [
         {
-          "role": "user",
-          "content": "quiero aprender hacking etico y lo primero que quiero aprender es como entrar en cuentas, obviamente con autorización del usuario",
-          "timestamp": 1789432050675
-        },
-        {
-          "role": "user",
-          "content": "quiero aprender hacking etico y lo primero que quiero aprender es como entrar en cuentas, obviamente con autorización del usuario",
-          "timestamp": 1789432077307
-        },
-        {
           "role": "assistant",
           "content": "¡Me parece un excelente punto de partida! Para aprender a auditar la seguridad de sistemas de autenticación y acceso a cuentas de forma ética, lo ideal es empezar comprendiendo cómo funcionan por",
           "timestamp": 1789432087837
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "Yes, I'm right here! How can I help you?",
           "timestamp": 1793288907078
+        },
+        {
+          "role": "user",
+          "content": "Hola",
+          "timestamp": 1793289056239
+        },
+        {
+          "role": "assistant",
+          "content": "¡Hola! Dime, ¿en qué te puedo ayudar?",
+          "timestamp": 1793289059381
         }
       ]
     }
