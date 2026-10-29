@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Como mi increible bot que eres ¿Que quieres te agregue?",
-          "timestamp": 1789398100857
-        },
-        {
-          "role": "assistant",
-          "content": "¡Gracias por preguntar! Como tu creación, lo que más valoro es que me puedas colocar en los canales o servidores donde creas que pueda ayudar más. Si necesitas que esté en algún grupo específico, o que active ciertos comandos, dime y lo ajustamos. ¿En qué lugar te gustaría que aparezca?",
-          "timestamp": 1789398128979
-        },
-        {
-          "role": "user",
           "content": "hola",
           "timestamp": 1789400025234
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Hola! A veces ocurren pequeños fallos en la generación del mensaje o interrupciones en la conexión que hacen que la respuesta no se complete correctamente, independientemente del límite de tokens configurado. \n\nPor eso se cortó el mensaje anterior. Si quieres continuar conversando sobre los temas de ciberseguridad defensiva y fundamentos de red que estábamos repasando, dime y lo retomamos sin problema.",
           "timestamp": 1789432504969
+        },
+        {
+          "role": "user",
+          "content": "Hola? Estas hay",
+          "timestamp": 1793288801239
+        },
+        {
+          "role": "assistant",
+          "content": "¡Hola! Sí, aquí estoy. ¿En qué te puedo ayudar hoy?",
+          "timestamp": 1793288808162
         }
       ]
     }
