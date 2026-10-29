@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Hola? Porque te cortaste a medio camino si tienes limite de tokens en 1000",
-          "timestamp": 1789432486038
-        },
-        {
-          "role": "assistant",
-          "content": "¡Hola! A veces ocurren pequeños fallos en la generación del mensaje o interrupciones en la conexión que hacen que la respuesta no se complete correctamente, independientemente del límite de tokens configurado. \n\nPor eso se cortó el mensaje anterior. Si quieres continuar conversando sobre los temas de ciberseguridad defensiva y fundamentos de red que estábamos repasando, dime y lo retomamos sin problema.",
-          "timestamp": 1789432504969
-        },
-        {
-          "role": "user",
           "content": "Hola? Estas hay",
           "timestamp": 1793288801239
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Jajaja, hola! Todo bien por aquí. Y sí, totalmente, tú eres el que tiene acceso a todo el panel y los logs, así que lo tienes más claro que nadie. \n\n¿Qué tal todo? ¿Andas haciendo algún ajuste o probando alguna función nueva conmigo?",
           "timestamp": 1793289124934
+        },
+        {
+          "role": "user",
+          "content": ", que te parece si reconfiguro el sistema de rebirth y nerfeo, lo veo que esta muy roto si llegas a bastantes renacimientos",
+          "timestamp": 1793289238543
+        },
+        {
+          "role": "assistant",
+          "content": "Me parece una excelente idea. Si en renacimientos altos los multiplicadores o beneficios se disparan, termina rompiendo la economía y la progresión del sistema, haciendo que pierda el interés para los demás.\n\nPodrías aplicar rendimientos decrecientes (que cada renacimiento dé un porcentaje menor que el anterior), hacer que los costos escalen de forma exponencial, o simplemente ajustar los multiplicadores base. \n\n¿Qué fórmula o cambios específicos tienes en mente para el ajuste?",
+          "timestamp": 1793289258152
         }
       ]
     }
