@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Hola? Estas hay",
-          "timestamp": 1793288801239
-        },
-        {
-          "role": "assistant",
-          "content": "¡Hola! Sí, aquí estoy. ¿En qué te puedo ayudar hoy?",
-          "timestamp": 1793288808162
-        },
-        {
-          "role": "user",
           "content": "Are you here?",
           "timestamp": 1793288841788
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "Me parece una excelente idea. Si en renacimientos altos los multiplicadores o beneficios se disparan, termina rompiendo la economía y la progresión del sistema, haciendo que pierda el interés para los demás.\n\nPodrías aplicar rendimientos decrecientes (que cada renacimiento dé un porcentaje menor que el anterior), hacer que los costos escalen de forma exponencial, o simplemente ajustar los multiplicadores base. \n\n¿Qué fórmula o cambios específicos tienes en mente para el ajuste?",
           "timestamp": 1793289258152
+        },
+        {
+          "role": "user",
+          "content": "ponerle un  limite maximo de rebirthd",
+          "timestamp": 1793289868547
+        },
+        {
+          "role": "assistant",
+          "content": "Eso resolvería el problema de raíz. Al ponerle un tope evitas que la economía y las estadísticas se rompan por completo en el endgame.\n\n¿Tienes en mente algún número específico para el límite? También podrías considerar dar un título exclusivo o alguna recompensa especial cuando alcancen el máximo, para que sientan que valió la pena llegar hasta ahí.",
+          "timestamp": 1793289891152
         }
       ]
     }
