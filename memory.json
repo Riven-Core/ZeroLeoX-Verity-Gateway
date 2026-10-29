@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Are you here?",
-          "timestamp": 1793288841788
-        },
-        {
-          "role": "assistant",
-          "content": "Yes, I'm right here! How can I help you?",
-          "timestamp": 1793288907078
-        },
-        {
-          "role": "user",
           "content": "Hola",
           "timestamp": 1793289056239
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "Eso resolvería el problema de raíz. Al ponerle un tope evitas que la economía y las estadísticas se rompan por completo en el endgame.\n\n¿Tienes en mente algún número específico para el límite? También podrías considerar dar un título exclusivo o alguna recompensa especial cuando alcancen el máximo, para que sientan que valió la pena llegar hasta ahí.",
           "timestamp": 1793289891152
+        },
+        {
+          "role": "user",
+          "content": ", me encanta lo del titulo, como lo hago?",
+          "timestamp": 1793289926985
+        },
+        {
+          "role": "assistant",
+          "content": "¡Es una gran adición! La forma más limpia de hacerlo depende de cómo quieras que los demás vean el título. Tienes dos opciones principales:\n\n### 1. Como un Rol",
+          "timestamp": 1793289949725
         }
       ]
     }
