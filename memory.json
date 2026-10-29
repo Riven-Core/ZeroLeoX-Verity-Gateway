@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "hola",
-          "timestamp": 1789400025234
-        },
-        {
-          "role": "assistant",
-          "content": "¡Hola! ¿Cómo estás hoy?",
-          "timestamp": 1789400026089
-        },
-        {
-          "role": "user",
           "content": "quiero aprender hacking etico y lo primero que quiero aprender es como entrar en cuentas, obviamente con autorización del usuario",
           "timestamp": 1789432050675
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Hola! Sí, aquí estoy. ¿En qué te puedo ayudar hoy?",
           "timestamp": 1793288808162
+        },
+        {
+          "role": "user",
+          "content": "Are you here?",
+          "timestamp": 1793288841788
+        },
+        {
+          "role": "assistant",
+          "content": "Yes, I'm right here! How can I help you?",
+          "timestamp": 1793288907078
         }
       ]
     }
