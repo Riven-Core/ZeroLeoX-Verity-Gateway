@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Como estas. Que proveedor estas usando en este momento?, ah cierto. Soy tonto, como tu creador puedo verlo desde tus logs jajajaja",
-          "timestamp": 1793289108653
-        },
-        {
-          "role": "assistant",
-          "content": "¡Jajaja, hola! Todo bien por aquí. Y sí, totalmente, tú eres el que tiene acceso a todo el panel y los logs, así que lo tienes más claro que nadie. \n\n¿Qué tal todo? ¿Andas haciendo algún ajuste o probando alguna función nueva conmigo?",
-          "timestamp": 1793289124934
-        },
-        {
-          "role": "user",
           "content": ", que te parece si reconfiguro el sistema de rebirth y nerfeo, lo veo que esta muy roto si llegas a bastantes renacimientos",
           "timestamp": 1793289238543
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Es una gran adición! La forma más limpia de hacerlo depende de cómo quieras que los demás vean el título. Tienes dos opciones principales:",
           "timestamp": 1793289993120
+        },
+        {
+          "role": "user",
+          "content": "Hola",
+          "timestamp": 1793321017253
+        },
+        {
+          "role": "assistant",
+          "content": "¡Hola de nuevo! ¿Todo bien? ¿Quieres que continuemos con las opciones para el sistema de títulos del límite de rebirths donde nos quedamos?",
+          "timestamp": 1793321021992
         }
       ]
     }
