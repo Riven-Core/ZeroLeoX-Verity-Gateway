@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": ", que te parece si reconfiguro el sistema de rebirth y nerfeo, lo veo que esta muy roto si llegas a bastantes renacimientos",
-          "timestamp": 1793289238543
-        },
-        {
-          "role": "assistant",
-          "content": "Me parece una excelente idea. Si en renacimientos altos los multiplicadores o beneficios se disparan, termina rompiendo la economía y la progresión del sistema, haciendo que pierda el interés para los demás.\n\nPodrías aplicar rendimientos decrecientes (que cada renacimiento dé un porcentaje menor que el anterior), hacer que los costos escalen de forma exponencial, o simplemente ajustar los multiplicadores base. \n\n¿Qué fórmula o cambios específicos tienes en mente para el ajuste?",
-          "timestamp": 1793289258152
-        },
-        {
-          "role": "user",
           "content": "ponerle un  limite maximo de rebirthd",
           "timestamp": 1793289868547
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Hola de nuevo! ¿Todo bien? ¿Quieres que continuemos con las opciones para el sistema de títulos del límite de rebirths donde nos quedamos?",
           "timestamp": 1793321021992
+        },
+        {
+          "role": "user",
+          "content": "Tengo hambre",
+          "timestamp": 1793321796772
+        },
+        {
+          "role": "assistant",
+          "content": "¡A comer se ha dicho! 🍕 ¿Qué se te antoja, o tienes algo a la mano para preparar?",
+          "timestamp": 1793321800751
         }
       ]
     }
