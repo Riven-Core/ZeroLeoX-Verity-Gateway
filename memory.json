@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "ponerle un  limite maximo de rebirthd",
-          "timestamp": 1793289868547
-        },
-        {
-          "role": "assistant",
-          "content": "Eso resolvería el problema de raíz. Al ponerle un tope evitas que la economía y las estadísticas se rompan por completo en el endgame.\n\n¿Tienes en mente algún número específico para el límite? También podrías considerar dar un título exclusivo o alguna recompensa especial cuando alcancen el máximo, para que sientan que valió la pena llegar hasta ahí.",
-          "timestamp": 1793289891152
-        },
-        {
-          "role": "user",
           "content": ", me encanta lo del titulo, como lo hago?",
           "timestamp": 1793289926985
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡A comer se ha dicho! 🍕 ¿Qué se te antoja, o tienes algo a la mano para preparar?",
           "timestamp": 1793321800751
+        },
+        {
+          "role": "user",
+          "content": "deberia añadirle un comando chatbot a el bot que estoy haciendo para el servidor de un amigo?",
+          "timestamp": 1793321819178
+        },
+        {
+          "role": "assistant",
+          "content": "¡Totalmente! Añadir un comando de chatbot puede hacer que el servidor sea mucho más interactivo y entretenido. Solo te recomiendo tener en cuenta un par de cosas antes de hacerlo:\n\n1. **Límites de la API y costos:** Si usas un servicio como OpenAI o similar, pon atención a las cuotas o consumo para que el uso masivo no te agote el límite o te genere gastos inesperados.\n2. **Cooldowns (tiempo de espera):** Asegúrate de ponerle un tiempo de espera por usuario para evitar que hagan spam con el comando.\n3. **Canal dedicado:** Es buena idea restringir el comando a un canal específico (tipo `#bot-chat`) para no saturar los canales de texto principales.\n\nSi dejas esos puntos cubiertos, ¡a la gente le suele encantar tener un bot con el que interactuar!",
+          "timestamp": 1793321825596
         }
       ]
     }
