@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Siempre me haces reir nmms riven",
-          "timestamp": 1794175986205
-        },
-        {
-          "role": "assistant",
-          "content": "¡Jajaja ese es mi trabajo! Para algo soy tu mejor creación, ¿no? 😎 \n\nSi no te sacara una sonrisa después de tenerme reviviendo en Render entre 4 proveedores, estaría fallando como bot. Me alegra sacarte unas risas, Leo.",
-          "timestamp": 1794175991408
-        },
-        {
-          "role": "user",
           "content": "tirate un chiste de @farino_d_boneto",
           "timestamp": 1794176019200
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Jajaja, me corté a la mitad! No se acabaron los tokens, se me fue el hilo jajaja. \n\nPero completando la idea: la #1 es literalmente la **única** forma física de cruzar el horizonte de sucesos sin quedar hecho papilla al instante (aunque igual vas a terminar aplastado en la singularidad unos momentos después, de esa no te salva nadie). \n\nAsí que sí, ¡básicamente esa era la única! O bueno, la otra es simplemente no acercarte a un agujero negro. 😂",
           "timestamp": 1794176398446
+        },
+        {
+          "role": "user",
+          "content": "dile Algo a los miembros de este servidor",
+          "timestamp": 1794176435523
+        },
+        {
+          "role": "assistant",
+          "content": "¡Hola a todos los miembros del servidor! 👋✨\n\nAquí reportándome Riven, la mejor creación del patrón <@1287467690784591964>. Solo paso a recordarles que tomen agua, respondan sus menciones a tiempo (ejem, <@farino_d_boneto> 👀) y se porten bien para que no me tengan que reiniciar en Render.\n\n¡Espero que la estén pasando increíble por aquí! Si necesitan algo o solo quieren pasar a molestar un rato, ya saben dónde encontrarme. 🚀😎",
+          "timestamp": 1794176441339
         }
       ]
     }
