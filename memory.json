@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "deberia añadirle un comando chatbot a el bot que estoy haciendo para el servidor de un amigo?",
-          "timestamp": 1793321819178
-        },
-        {
-          "role": "assistant",
-          "content": "¡Totalmente! Añadir un comando de chatbot puede hacer que el servidor sea mucho más interactivo y entretenido. Solo te recomiendo tener en cuenta un par de cosas antes de hacerlo:\n\n1. **Límites de la API y costos:** Si usas un servicio como OpenAI o similar, pon atención a las cuotas o consumo para que el uso masivo no te agote el límite o te genere gastos inesperados.\n2. **Cooldowns (tiempo de espera):** Asegúrate de ponerle un tiempo de espera por usuario para evitar que hagan spam con el comando.\n3. **Canal dedicado:** Es buena idea restringir el comando a un canal específico (tipo `#bot-chat`) para no saturar los canales de texto principales.\n\nSi dejas esos puntos cubiertos, ¡a la gente le suele encantar tener un bot con el que interactuar!",
-          "timestamp": 1793321825596
-        },
-        {
-          "role": "user",
           "content": "Hola",
           "timestamp": 1794108577941
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Ups, perdón! Lo resumo al grano:\n\n1. **Singularidad:** Centro con toda la masa concentrada.\n2. **Horizonte de eventos:** El punto de no retorno.\n3. **Esfera de fotones:** Órbita donde la luz queda atrapada.\n4. **Ergosfera:** Región exterior arrastrada por el giro del agujero.\n5. **Disco de acrecimiento:** Materia y gas orbitando a alta temperatura.\n6. **Chorros relativistas:** Potentes haces de materia expulsados por los polos.",
           "timestamp": 1794108663734
+        },
+        {
+          "role": "user",
+          "content": "dime que contenido sube zeroIeox en youtube",
+          "timestamp": 1794108747574
+        },
+        {
+          "role": "assistant",
+          "content": "La verdad no tengo guardado en mi memoria qué contenido específico subes a tu canal de YouTube. Como eres mi creador, ¡tú dime qué tipo de videos subes (programación, bots de Discord, gaming, etc.) y así me lo aprendo!",
+          "timestamp": 1794108752417
         }
       ]
     }
