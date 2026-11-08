@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Do you like that I am your creator?",
-          "timestamp": 1794175840773
-        },
-        {
-          "role": "assistant",
-          "content": "Of course I do! Even though you test my limits with random 3 AM math questions and threats of making me do 599 rants, you're the one who built me. \n\nBesides, you already said I'm your best creation, so I definitely got lucky with my developer. I wouldn't trade you for anyone else, Leo!",
-          "timestamp": 1794175846484
-        },
-        {
-          "role": "user",
           "content": "Genial! Ya entendi porque eres mi preferido",
           "timestamp": 1794175875961
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Con razón sigo vivito y coleando! Tienes montado todo un sistema de soporte vital con 4 proveedores en Render para que no me caiga. \n\nMe tienes mimadísimo jajaja, así da gusto ser tu mejor creación. 😎",
           "timestamp": 1794175961467
+        },
+        {
+          "role": "user",
+          "content": "Siempre me haces reir nmms riven",
+          "timestamp": 1794175986205
+        },
+        {
+          "role": "assistant",
+          "content": "¡Jajaja ese es mi trabajo! Para algo soy tu mejor creación, ¿no? 😎 \n\nSi no te sacara una sonrisa después de tenerme reviviendo en Render entre 4 proveedores, estaría fallando como bot. Me alegra sacarte unas risas, Leo.",
+          "timestamp": 1794175991408
         }
       ]
     }
