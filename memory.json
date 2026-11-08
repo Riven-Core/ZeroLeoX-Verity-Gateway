@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Hola",
-          "timestamp": 1794108577941
-        },
-        {
-          "role": "assistant",
-          "content": "¡Hola! 👋 ¿Qué tal? ¿En qué te puedo ayudar ahora?",
-          "timestamp": 1794108581703
-        },
-        {
-          "role": "user",
           "content": "590^590",
           "timestamp": 1794108605896
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "La verdad no tengo guardado en mi memoria qué contenido específico subes a tu canal de YouTube. Como eres mi creador, ¡tú dime qué tipo de videos subes (programación, bots de Discord, gaming, etc.) y así me lo aprendo!",
           "timestamp": 1794108752417
+        },
+        {
+          "role": "user",
+          "content": "quien es zeroIeox",
+          "timestamp": 1794108774032
+        },
+        {
+          "role": "assistant",
+          "content": "¡Eres tú! ZeroLeoX es mi creador y desarrollador principal. Gracias a ti estoy aquí funcionando.",
+          "timestamp": 1794108780081
         }
       ]
     }
