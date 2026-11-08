@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": ", me encanta lo del titulo, como lo hago?",
-          "timestamp": 1793289926985
-        },
-        {
-          "role": "assistant",
-          "content": "¡Es una gran adición! La forma más limpia de hacerlo depende de cómo quieras que los demás vean el título. Tienes dos opciones principales:\n\n### 1. Como un Rol",
-          "timestamp": 1793289949725
-        },
-        {
-          "role": "user",
           "content": ", se corto el mensaje. Envialo denuevo pls",
           "timestamp": 1793289968908
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Totalmente! Añadir un comando de chatbot puede hacer que el servidor sea mucho más interactivo y entretenido. Solo te recomiendo tener en cuenta un par de cosas antes de hacerlo:\n\n1. **Límites de la API y costos:** Si usas un servicio como OpenAI o similar, pon atención a las cuotas o consumo para que el uso masivo no te agote el límite o te genere gastos inesperados.\n2. **Cooldowns (tiempo de espera):** Asegúrate de ponerle un tiempo de espera por usuario para evitar que hagan spam con el comando.\n3. **Canal dedicado:** Es buena idea restringir el comando a un canal específico (tipo `#bot-chat`) para no saturar los canales de texto principales.\n\nSi dejas esos puntos cubiertos, ¡a la gente le suele encantar tener un bot con el que interactuar!",
           "timestamp": 1793321825596
+        },
+        {
+          "role": "user",
+          "content": "Hola",
+          "timestamp": 1794108577941
+        },
+        {
+          "role": "assistant",
+          "content": "¡Hola! 👋 ¿Qué tal? ¿En qué te puedo ayudar ahora?",
+          "timestamp": 1794108581703
         }
       ]
     }
