@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Hola",
-          "timestamp": 1793321017253
-        },
-        {
-          "role": "assistant",
-          "content": "¡Hola de nuevo! ¿Todo bien? ¿Quieres que continuemos con las opciones para el sistema de títulos del límite de rebirths donde nos quedamos?",
-          "timestamp": 1793321021992
-        },
-        {
-          "role": "user",
           "content": "Tengo hambre",
           "timestamp": 1793321796772
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "Eso da un número gigantesco. $590^{590}$ es aproximadamente **$6.35 \\times 10^{1634}$** (un número con 1635 dígitos). \n\nSi necesitas el cálculo para algún script o código en particular, ten en cuenta que causará un desbordamiento (overflow) en tipos de datos numéricos estándar, por lo que necesitarías usar librerías para manejar números de precisión arbitraria (como `BigInt` en JavaScript/Node.js o `int` nativo en Python).",
           "timestamp": 1794108609475
+        },
+        {
+          "role": "user",
+          "content": "dime todas las partes de un agujero negro",
+          "timestamp": 1794108624697
+        },
+        {
+          "role": "assistant",
+          "content": "Un agujero negro se compone de varias partes clave, divididas entre su estructura teórica y los fenómenos que ocurren a su alrededor:\n\n1. **Singularidad:** El punto central donde toda la masa del agujero negro está concentrada en un espacio infinitesimalmente pequeño. En la teoría, tiene densidad e intensidad gravitatoria infinitas.\n2. **Horizonte de eventos (o de sucesos):** Es la frontera del agujero negro. Representa el \"punto de no retorno\"; una vez que cualquier cosa (incluso la luz) cruza este límite, la gravedad es tan fuerte que no puede escapar.\n3. **Esfera de fotones:** Una región justo por encima del horizonte de eventos donde la gravedad es tan intensa que obliga a la propia luz (fotones) a orbitar alrededor del agujero negro.\n4. **Erg",
+          "timestamp": 1794108630395
         }
       ]
     }
