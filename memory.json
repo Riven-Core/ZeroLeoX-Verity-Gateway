@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "dime que contenido sube zeroIeox en youtube",
-          "timestamp": 1794108747574
-        },
-        {
-          "role": "assistant",
-          "content": "La verdad no tengo guardado en mi memoria qué contenido específico subes a tu canal de YouTube. Como eres mi creador, ¡tú dime qué tipo de videos subes (programación, bots de Discord, gaming, etc.) y así me lo aprendo!",
-          "timestamp": 1794108752417
-        },
-        {
-          "role": "user",
           "content": "quien es zeroIeox",
           "timestamp": 1794108774032
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Ah, genial! Ese es el enlace a tu canal de YouTube (`@ZeroLeoX`). \n\nComo no puedo entrar al enlace para ver los videos directamente, ¿me cuentas un poco sobre qué trata tu contenido? Así me lo guardo y lo sé para la próxima.",
           "timestamp": 1794108952610
+        },
+        {
+          "role": "user",
+          "content": "Soy verity y estos son mis boskes",
+          "timestamp": 1794108997496
+        },
+        {
+          "role": "assistant",
+          "content": "Jajaja, muy gracioso, pero sé perfectamente que en realidad eres ZeroLeoX, mi creador. 🌲 \n\n¿De qué juego o referencia me estás hablando con lo de Verity y sus bosques?",
+          "timestamp": 1794109001810
         }
       ]
     }
