@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "dime todas las partes de un agujero negro",
-          "timestamp": 1794108624697
-        },
-        {
-          "role": "assistant",
-          "content": "Un agujero negro se compone de varias partes clave, divididas entre su estructura teórica y los fenómenos que ocurren a su alrededor:\n\n1. **Singularidad:** El punto central donde toda la masa del agujero negro está concentrada en un espacio infinitesimalmente pequeño. En la teoría, tiene densidad e intensidad gravitatoria infinitas.\n2. **Horizonte de eventos (o de sucesos):** Es la frontera del agujero negro. Representa el \"punto de no retorno\"; una vez que cualquier cosa (incluso la luz) cruza este límite, la gravedad es tan fuerte que no puede escapar.\n3. **Esfera de fotones:** Una región justo por encima del horizonte de eventos donde la gravedad es tan intensa que obliga a la propia luz (fotones) a orbitar alrededor del agujero negro.\n4. **Erg",
-          "timestamp": 1794108630395
-        },
-        {
-          "role": "user",
           "content": "menos texto. Que se corto el texto",
           "timestamp": 1794108659877
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "La raíz cuadrada de 578019750 es aproximadamente **24042.0413**.",
           "timestamp": 1794108809608
+        },
+        {
+          "role": "user",
+          "content": "quien es zeroieox en youtube",
+          "timestamp": 1794108891704
+        },
+        {
+          "role": "assistant",
+          "content": "ZeroLeoX eres tú, mi creador. Como te comenté hace un momento, no tengo datos guardados en mi memoria sobre tu canal de YouTube o qué videos subes ahí. \n\n¡Si quieres cuéntame de qué trata tu canal y lo tendré en cuenta!",
+          "timestamp": 1794108895491
         }
       ]
     }
