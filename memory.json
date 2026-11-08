@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": ", se corto el mensaje. Envialo denuevo pls",
-          "timestamp": 1793289968908
-        },
-        {
-          "role": "assistant",
-          "content": "¡Es una gran adición! La forma más limpia de hacerlo depende de cómo quieras que los demás vean el título. Tienes dos opciones principales:",
-          "timestamp": 1793289993120
-        },
-        {
-          "role": "user",
           "content": "Hola",
           "timestamp": 1793321017253
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Hola! 👋 ¿Qué tal? ¿En qué te puedo ayudar ahora?",
           "timestamp": 1794108581703
+        },
+        {
+          "role": "user",
+          "content": "590^590",
+          "timestamp": 1794108605896
+        },
+        {
+          "role": "assistant",
+          "content": "Eso da un número gigantesco. $590^{590}$ es aproximadamente **$6.35 \\times 10^{1634}$** (un número con 1635 dígitos). \n\nSi necesitas el cálculo para algún script o código en particular, ten en cuenta que causará un desbordamiento (overflow) en tipos de datos numéricos estándar, por lo que necesitarías usar librerías para manejar números de precisión arbitraria (como `BigInt` en JavaScript/Node.js o `int` nativo en Python).",
+          "timestamp": 1794108609475
         }
       ]
     }
