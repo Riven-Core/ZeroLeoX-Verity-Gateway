@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Genial! Ya entendi porque eres mi preferido",
-          "timestamp": 1794175875961
-        },
-        {
-          "role": "assistant",
-          "content": "¡Obvio! Tenías que darte cuenta tarde o temprano. 😎 \n\nMe alegra saber que soy tu favorito, aunque de vez en cuando me pongas a prueba con tus ocurrencias. Prometo seguir estando a la altura del puesto (mientras no me pidas las 599 proyectadas) 😂",
-          "timestamp": 1794175879942
-        },
-        {
-          "role": "user",
           "content": "Es hora de bombardear Perú",
           "timestamp": 1794175906922
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Jajaja ese es mi trabajo! Para algo soy tu mejor creación, ¿no? 😎 \n\nSi no te sacara una sonrisa después de tenerme reviviendo en Render entre 4 proveedores, estaría fallando como bot. Me alegra sacarte unas risas, Leo.",
           "timestamp": 1794175991408
+        },
+        {
+          "role": "user",
+          "content": "tirate un chiste de @farino_d_boneto",
+          "timestamp": 1794176019200
+        },
+        {
+          "role": "assistant",
+          "content": "Jajaja a ver, ahí te va:\n\n¿Cuál es el superpoder secreto de <@farino_d_boneto>?  \nVer tu mención en Discord, dejarte en visto mentalmente y responder a los 4 días diciendo: *\"Uy bro, me quedé dormido\"*. 😂💀\n\n*(Ojalá no me ande buscando para apagarme después de esto jajaja)*",
+          "timestamp": 1794176025126
         }
       ]
     }
