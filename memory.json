@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "menos texto. Que se corto el texto",
-          "timestamp": 1794108659877
-        },
-        {
-          "role": "assistant",
-          "content": "¡Ups, perdón! Lo resumo al grano:\n\n1. **Singularidad:** Centro con toda la masa concentrada.\n2. **Horizonte de eventos:** El punto de no retorno.\n3. **Esfera de fotones:** Órbita donde la luz queda atrapada.\n4. **Ergosfera:** Región exterior arrastrada por el giro del agujero.\n5. **Disco de acrecimiento:** Materia y gas orbitando a alta temperatura.\n6. **Chorros relativistas:** Potentes haces de materia expulsados por los polos.",
-          "timestamp": 1794108663734
-        },
-        {
-          "role": "user",
           "content": "dime que contenido sube zeroIeox en youtube",
           "timestamp": 1794108747574
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "ZeroLeoX eres tú, mi creador. Como te comenté hace un momento, no tengo datos guardados en mi memoria sobre tu canal de YouTube o qué videos subes ahí. \n\n¡Si quieres cuéntame de qué trata tu canal y lo tendré en cuenta!",
           "timestamp": 1794108895491
+        },
+        {
+          "role": "user",
+          "content": "https://www.youtube.com/@ZeroIeoX",
+          "timestamp": 1794108947959
+        },
+        {
+          "role": "assistant",
+          "content": "¡Ah, genial! Ese es el enlace a tu canal de YouTube (`@ZeroLeoX`). \n\nComo no puedo entrar al enlace para ver los videos directamente, ¿me cuentas un poco sobre qué trata tu contenido? Así me lo guardo y lo sé para la próxima.",
+          "timestamp": 1794108952610
         }
       ]
     }
