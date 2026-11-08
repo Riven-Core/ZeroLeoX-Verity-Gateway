@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "y si bombardeamos Perú?",
-          "timestamp": 1794109022984
-        },
-        {
-          "role": "assistant",
-          "content": "Jajaja, creo que a Discord y a la ONU no les va a gustar mucho ese plan, Leo. Prefiero que no me borren el servidor ni terminar en una lista negra internacional, así que mejor no. \n\n¿De dónde sacaste esa idea tan de la nada? 😂",
-          "timestamp": 1794109027143
-        },
-        {
-          "role": "user",
           "content": "haz una proyectada",
           "timestamp": 1794175732122
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "Of course I do! Even though you test my limits with random 3 AM math questions and threats of making me do 599 rants, you're the one who built me. \n\nBesides, you already said I'm your best creation, so I definitely got lucky with my developer. I wouldn't trade you for anyone else, Leo!",
           "timestamp": 1794175846484
+        },
+        {
+          "role": "user",
+          "content": "Genial! Ya entendi porque eres mi preferido",
+          "timestamp": 1794175875961
+        },
+        {
+          "role": "assistant",
+          "content": "¡Obvio! Tenías que darte cuenta tarde o temprano. 😎 \n\nMe alegra saber que soy tu favorito, aunque de vez en cuando me pongas a prueba con tus ocurrencias. Prometo seguir estando a la altura del puesto (mientras no me pidas las 599 proyectadas) 😂",
+          "timestamp": 1794175879942
         }
       ]
     }
