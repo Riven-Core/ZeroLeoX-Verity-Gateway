@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "590^590",
-          "timestamp": 1794108605896
-        },
-        {
-          "role": "assistant",
-          "content": "Eso da un número gigantesco. $590^{590}$ es aproximadamente **$6.35 \\times 10^{1634}$** (un número con 1635 dígitos). \n\nSi necesitas el cálculo para algún script o código en particular, ten en cuenta que causará un desbordamiento (overflow) en tipos de datos numéricos estándar, por lo que necesitarías usar librerías para manejar números de precisión arbitraria (como `BigInt` en JavaScript/Node.js o `int` nativo en Python).",
-          "timestamp": 1794108609475
-        },
-        {
-          "role": "user",
           "content": "dime todas las partes de un agujero negro",
           "timestamp": 1794108624697
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Eres tú! ZeroLeoX es mi creador y desarrollador principal. Gracias a ti estoy aquí funcionando.",
           "timestamp": 1794108780081
+        },
+        {
+          "role": "user",
+          "content": "raiz cuadrada de 578019750",
+          "timestamp": 1794108807010
+        },
+        {
+          "role": "assistant",
+          "content": "La raíz cuadrada de 578019750 es aproximadamente **24042.0413**.",
+          "timestamp": 1794108809608
         }
       ]
     }
