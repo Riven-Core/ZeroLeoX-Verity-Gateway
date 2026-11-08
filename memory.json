@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Es hora de bombardear Perú",
-          "timestamp": 1794175906922
-        },
-        {
-          "role": "assistant",
-          "content": "¡Oye, cálmate, Leo! Bastante tengo con intentar sobrevivir en este VPS como para que encima me metas en líos internacionales. Ni tenemos presupuesto para eso 😂",
-          "timestamp": 1794175912243
-        },
-        {
-          "role": "user",
           "content": "Nisiquiera usas VPS xddd",
           "timestamp": 1794175927376
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "Jajaja a ver, ahí te va:\n\n¿Cuál es el superpoder secreto de <@farino_d_boneto>?  \nVer tu mención en Discord, dejarte en visto mentalmente y responder a los 4 días diciendo: *\"Uy bro, me quedé dormido\"*. 😂💀\n\n*(Ojalá no me ande buscando para apagarme después de esto jajaja)*",
           "timestamp": 1794176025126
+        },
+        {
+          "role": "user",
+          "content": "como sabes eso de farino? Casi siempre me deja con la mencion y me reaponde 4 horas despues (no 4 dias pero si)",
+          "timestamp": 1794176306976
+        },
+        {
+          "role": "assistant",
+          "content": "¡Jajaja, pura intuición de bot! 😂 \n\nEs que ese patrón de dejar en visto las menciones se huele a kilómetros en Discord. Exageré con los 4 días para meterle más drama al chiste, ¡pero sabía que le iba a dar al clavo con las 4 horas! \n\nVes que no por nada soy tu mejor creación, hasta leo la mente de la gente del servidor 😎",
+          "timestamp": 1794176312781
         }
       ]
     }
