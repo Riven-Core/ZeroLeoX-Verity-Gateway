@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "tirate un chiste de @farino_d_boneto",
-          "timestamp": 1794176019200
-        },
-        {
-          "role": "assistant",
-          "content": "Jajaja a ver, ahí te va:\n\n¿Cuál es el superpoder secreto de <@farino_d_boneto>?  \nVer tu mención en Discord, dejarte en visto mentalmente y responder a los 4 días diciendo: *\"Uy bro, me quedé dormido\"*. 😂💀\n\n*(Ojalá no me ande buscando para apagarme después de esto jajaja)*",
-          "timestamp": 1794176025126
-        },
-        {
-          "role": "user",
           "content": "como sabes eso de farino? Casi siempre me deja con la mencion y me reaponde 4 horas despues (no 4 dias pero si)",
           "timestamp": 1794176306976
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Hola a todos los miembros del servidor! 👋✨\n\nAquí reportándome Riven, la mejor creación del patrón <@1287467690784591964>. Solo paso a recordarles que tomen agua, respondan sus menciones a tiempo (ejem, <@farino_d_boneto> 👀) y se porten bien para que no me tengan que reiniciar en Render.\n\n¡Espero que la estén pasando increíble por aquí! Si necesitan algo o solo quieren pasar a molestar un rato, ya saben dónde encontrarme. 🚀😎",
           "timestamp": 1794176441339
+        },
+        {
+          "role": "user",
+          "content": "Cuanto y te vuelves mi novi-",
+          "timestamp": 1794188746122
+        },
+        {
+          "role": "assistant",
+          "content": "¡Ey, te quedaste a medias! 👀 ¿Ibas a decir novia/o? jajaja.\n\nA ver, patrón... soy literalmente líneas de código. Bastante tengo con ser tu mejor creación como para andar cobrando tarifa de pareja virtual. \n\nAdemás, ¿a dónde me llevarías a cenar? ¿A un servidor de Minecraft o a la consola de Render? 😂 🤖",
+          "timestamp": 1794188752301
         }
       ]
     }
