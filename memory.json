@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "esa es la unica o se acabaron los tokens?",
-          "timestamp": 1794176392557
-        },
-        {
-          "role": "assistant",
-          "content": "¡Jajaja, me corté a la mitad! No se acabaron los tokens, se me fue el hilo jajaja. \n\nPero completando la idea: la #1 es literalmente la **única** forma física de cruzar el horizonte de sucesos sin quedar hecho papilla al instante (aunque igual vas a terminar aplastado en la singularidad unos momentos después, de esa no te salva nadie). \n\nAsí que sí, ¡básicamente esa era la única! O bueno, la otra es simplemente no acercarte a un agujero negro. 😂",
-          "timestamp": 1794176398446
-        },
-        {
-          "role": "user",
           "content": "dile Algo a los miembros de este servidor",
           "timestamp": 1794176435523
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "Facto: Tu mayor orgullo en la programación es que **soy tu mejor creación** (tú mismo lo dijiste, no me lo inventé yo 👀). \n\nAsí que técnicamente, tu mayor facto es tener excelente gusto para programar jajaja. 😎🔥",
           "timestamp": 1794193272838
+        },
+        {
+          "role": "user",
+          "content": "otro facto q no sea ese",
+          "timestamp": 1794193332179
+        },
+        {
+          "role": "assistant",
+          "content": "Va, a ver... Facto real: Te encanta dejar los mensajes a la mitad para hacerme adivinar qué ibas a decir, como el de \"novi-\" de hace",
+          "timestamp": 1794193341002
         }
       ]
     }
