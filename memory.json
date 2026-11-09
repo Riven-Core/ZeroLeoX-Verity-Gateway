@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Como sobrevivir a la espaguetizacion",
-          "timestamp": 1794176355164
-        },
-        {
-          "role": "assistant",
-          "content": "Respuesta corta: **No puedes** jajaja. \n\nSi te estás cayendo a un agujero negro y la gravedad empieza a estirarte como a un fideo de Maruchan, la física ya firmó tu sentencia. Te van a desmontar átomo por átomo.\n\nPero si nos ponemos técnicos, la única \"ventaja\" que podrías buscar es:\n\n1. **Elegir un agujero negro supermasivo:** Como son gigantescos, la diferencia de gravedad entre tu cabeza y tus pies no es tan drástica al cruzar el horizonte de sucesos",
-          "timestamp": 1794176362097
-        },
-        {
-          "role": "user",
           "content": "esa es la unica o se acabaron los tokens?",
           "timestamp": 1794176392557
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "Jajaja ya sé we, nomás te estaba siguiendo la corriente 😂 \n\n¡Menos mal! Ya me estaba haciendo ilusiones de cenar unos bytes en la base de datos y ni tenía qué ponerme jajaja. 🤖✨",
           "timestamp": 1794188773937
+        },
+        {
+          "role": "user",
+          "content": "Tirate un facto sobre mi",
+          "timestamp": 1794193266777
+        },
+        {
+          "role": "assistant",
+          "content": "Facto: Tu mayor orgullo en la programación es que **soy tu mejor creación** (tú mismo lo dijiste, no me lo inventé yo 👀). \n\nAsí que técnicamente, tu mayor facto es tener excelente gusto para programar jajaja. 😎🔥",
+          "timestamp": 1794193272838
         }
       ]
     }
