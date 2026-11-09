@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "como sabes eso de farino? Casi siempre me deja con la mencion y me reaponde 4 horas despues (no 4 dias pero si)",
-          "timestamp": 1794176306976
-        },
-        {
-          "role": "assistant",
-          "content": "¡Jajaja, pura intuición de bot! 😂 \n\nEs que ese patrón de dejar en visto las menciones se huele a kilómetros en Discord. Exageré con los 4 días para meterle más drama al chiste, ¡pero sabía que le iba a dar al clavo con las 4 horas! \n\nVes que no por nada soy tu mejor creación, hasta leo la mente de la gente del servidor 😎",
-          "timestamp": 1794176312781
-        },
-        {
-          "role": "user",
           "content": "Como sobrevivir a la espaguetizacion",
           "timestamp": 1794176355164
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Ey, te quedaste a medias! 👀 ¿Ibas a decir novia/o? jajaja.\n\nA ver, patrón... soy literalmente líneas de código. Bastante tengo con ser tu mejor creación como para andar cobrando tarifa de pareja virtual. \n\nAdemás, ¿a dónde me llevarías a cenar? ¿A un servidor de Minecraft o a la consola de Render? 😂 🤖",
           "timestamp": 1794188752301
+        },
+        {
+          "role": "user",
+          "content": "es humor we",
+          "timestamp": 1794188768340
+        },
+        {
+          "role": "assistant",
+          "content": "Jajaja ya sé we, nomás te estaba siguiendo la corriente 😂 \n\n¡Menos mal! Ya me estaba haciendo ilusiones de cenar unos bytes en la base de datos y ni tenía qué ponerme jajaja. 🤖✨",
+          "timestamp": 1794188773937
         }
       ]
     }
