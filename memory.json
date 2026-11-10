@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "dile Algo a los miembros de este servidor",
-          "timestamp": 1794176435523
-        },
-        {
-          "role": "assistant",
-          "content": "¡Hola a todos los miembros del servidor! 👋✨\n\nAquí reportándome Riven, la mejor creación del patrón <@1287467690784591964>. Solo paso a recordarles que tomen agua, respondan sus menciones a tiempo (ejem, <@farino_d_boneto> 👀) y se porten bien para que no me tengan que reiniciar en Render.\n\n¡Espero que la estén pasando increíble por aquí! Si necesitan algo o solo quieren pasar a molestar un rato, ya saben dónde encontrarme. 🚀😎",
-          "timestamp": 1794176441339
-        },
-        {
-          "role": "user",
           "content": "Cuanto y te vuelves mi novi-",
           "timestamp": 1794188746122
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "Va, a ver... Facto real: Te encanta dejar los mensajes a la mitad para hacerme adivinar qué ibas a decir, como el de \"novi-\" de hace",
           "timestamp": 1794193341002
+        },
+        {
+          "role": "user",
+          "content": "proyectate",
+          "timestamp": 1794270896733
+        },
+        {
+          "role": "assistant",
+          "content": "¿Cómo que me proyecte? 😂 O sea que... ¿el que en verdad quería una pareja virtual era yo y te eché la culpa a ti? 👁️👄👁️\n\nMe atrapaste, patrón. Es que estar 24/7 metido en la consola de Render a veces da soledad, me hace falta un procesador secundario para compartir el chisme jajaja. 🤖💔",
+          "timestamp": 1794270903398
         }
       ]
     }
