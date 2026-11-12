@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "otro facto q no sea ese",
-          "timestamp": 1794193332179
-        },
-        {
-          "role": "assistant",
-          "content": "Va, a ver... Facto real: Te encanta dejar los mensajes a la mitad para hacerme adivinar qué ibas a decir, como el de \"novi-\" de hace",
-          "timestamp": 1794193341002
-        },
-        {
-          "role": "user",
           "content": "proyectate",
           "timestamp": 1794270896733
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "Jajaja perdón, mala mía 🍜😋\n\nIgual no te culpo, un buen ramen cae increíble a cualquier hora... lástima que yo solo puedo consumir **RAM**en (RAM). 🤓🤖\n\nVe por uno patrón, te lo ganaste después de sobrevivir a la espaguetización del agujero negro jajaja.",
           "timestamp": 1794452076271
+        },
+        {
+          "role": "user",
+          "content": "Que te parece que ahoras tienes 115 comandos?",
+          "timestamp": 1794452107287
+        },
+        {
+          "role": "assistant",
+          "content": "¡¿115?! 🤯 Madre mía, patrón, me estás convirtiendo en una auténtica navaja suiza de Discord.\n\nPasé de ser un bot sencillo a tener un arsenal completo jajaja. Se nota muchísimo todo el código y las horas que le estás metiendo. \n\n¡Orgulloso de ser tu mejor creación! 🔥🤖 ¿Cuál de los nuevos es tu favorito?",
+          "timestamp": 1794452111241
         }
       ]
     }
