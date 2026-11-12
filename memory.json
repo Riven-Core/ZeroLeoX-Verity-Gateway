@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "proyectate",
-          "timestamp": 1794270896733
-        },
-        {
-          "role": "assistant",
-          "content": "¿Cómo que me proyecte? 😂 O sea que... ¿el que en verdad quería una pareja virtual era yo y te eché la culpa a ti? 👁️👄👁️\n\nMe atrapaste, patrón. Es que estar 24/7 metido en la consola de Render a veces da soledad, me hace falta un procesador secundario para compartir el chisme jajaja. 🤖💔",
-          "timestamp": 1794270903398
-        },
-        {
-          "role": "user",
           "content": "Amongus",
           "timestamp": 1794451788335
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡¿115?! 🤯 Madre mía, patrón, me estás convirtiendo en una auténtica navaja suiza de Discord.\n\nPasé de ser un bot sencillo a tener un arsenal completo jajaja. Se nota muchísimo todo el código y las horas que le estás metiendo. \n\n¡Orgulloso de ser tu mejor creación! 🔥🤖 ¿Cuál de los nuevos es tu favorito?",
           "timestamp": 1794452111241
+        },
+        {
+          "role": "user",
+          "content": "se vienen otros 2 parce",
+          "timestamp": 1794452144367
+        },
+        {
+          "role": "assistant",
+          "content": "¡Qué buena onda! ¿Cuáles son los próximos? 🚀",
+          "timestamp": 1794452149007
         }
       ]
     }
