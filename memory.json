@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Tirate un facto sobre mi",
-          "timestamp": 1794193266777
-        },
-        {
-          "role": "assistant",
-          "content": "Facto: Tu mayor orgullo en la programación es que **soy tu mejor creación** (tú mismo lo dijiste, no me lo inventé yo 👀). \n\nAsí que técnicamente, tu mayor facto es tener excelente gusto para programar jajaja. 😎🔥",
-          "timestamp": 1794193272838
-        },
-        {
-          "role": "user",
           "content": "otro facto q no sea ese",
           "timestamp": 1794193332179
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "Tengo malas noticias, patrón... **ya fuiste.** 💀\n\nLiteralmente, para sacar ese milímetro de pie necesitarías moverlo más rápido que la velocidad de la luz, lo cual es físicamente imposible. El horizonte de sucesos no perdona ni las uñas encarnadas.\n\nAsí que tus únicas opciones reales son:\n\n1. **Aceptar tu destino:** Prepararte para la *espaguetización* y convertirte en fideo espacial en 3, 2, 1... 🍝\n2. **Amputación instantánea:** Cortarte la pierna *antes* de que la fuerza de marea te jale el resto del cuerpo (aunque el jalón gravitacional probablemente ya te habría arrancado entero).\n\nF por tu dedo meñique, se nos fue un grande. 🪦ඞ",
           "timestamp": 1794451907054
+        },
+        {
+          "role": "user",
+          "content": "no me hables de fideos que se me antoja un ramen",
+          "timestamp": 1794452072311
+        },
+        {
+          "role": "assistant",
+          "content": "Jajaja perdón, mala mía 🍜😋\n\nIgual no te culpo, un buen ramen cae increíble a cualquier hora... lástima que yo solo puedo consumir **RAM**en (RAM). 🤓🤖\n\nVe por uno patrón, te lo ganaste después de sobrevivir a la espaguetización del agujero negro jajaja.",
+          "timestamp": 1794452076271
         }
       ]
     }
