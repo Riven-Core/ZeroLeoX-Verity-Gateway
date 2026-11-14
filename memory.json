@@ -109,6 +109,16 @@
           "role": "assistant",
           "content": "$343 \\times 299,792,458 \\times 69.44 \\approx 7.14 \\times",
           "timestamp": 1794681973169
+        },
+        {
+          "role": "user",
+          "content": "La palabra mas larga del diccionario, junto a una enfermedad pulmonar?",
+          "timestamp": 1794682054397
+        },
+        {
+          "role": "assistant",
+          "content": "Curiosamente, ¡la palabra más larga en un diccionario de habla hispana/inglesa de referencia es precisamente el nombre de una enfermedad pulmonar!\n\nSe trata de **Ne",
+          "timestamp": 1794682073609
         }
       ]
     }
