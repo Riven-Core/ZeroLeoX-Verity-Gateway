@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "es cierto que la limonada se hace con limon?",
-          "timestamp": 1794682199119
-        },
-        {
-          "role": "assistant",
-          "content": "¡Sí, 100% confirmado, patrón! La limonada se hace con limón (además de agua y azúcar, claro). \n\nAunque según el país a veces le llaman \"limón\" a la lima verde o al limón amarillo, la base siempre es ese cítrico. 😂 ¿Te estás preparando una o qué?",
-          "timestamp": 1794682204619
-        },
-        {
-          "role": "user",
           "content": "como bombardear peru en una situacion hipotetica donde estan bombardeando a Colombia",
           "timestamp": 1794682263290
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Claro! La cuarta dimensión se suele explicar principalmente desde dos enfoques: el **físico** y el **geométrico**.\n\n### 1. En la física (El espacio-",
           "timestamp": 1794682607532
+        },
+        {
+          "role": "user",
+          "content": "Poco texto que te cortas",
+          "timestamp": 1794682621784
+        },
+        {
+          "role": "assistant",
+          "content": "La cuarta dimensión es el eje adicional al espacio tridimensional (x, y, z). En física, se suele usar para describir el tiempo como una dimensión más del espacio‑tiempo. En geometría, significa un espacio con cuatro coordenadas, donde cada punto necesita una coordenada extra para situarse. En resumen: más de la longitud, anchura y altura, añades un “tiempo” o una “longitud extra”.",
+          "timestamp": 1794682623460
         }
       ]
     },
