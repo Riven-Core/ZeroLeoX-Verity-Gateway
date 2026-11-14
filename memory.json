@@ -99,6 +99,16 @@
           "role": "assistant",
           "content": "Sin duda es la **Identidad de Euler**:\n\n$$e^{i\\pi} + 1 = 0$$\n\nEs considerada por casi todos los matemáticos como la más bella porque logra conectar cinco de las constantes más fundamentales e importantes de las matemáticas ($e$, $i$, $\\pi$, $1$ y $0$) junto con las operaciones básicas de suma, multiplicación y exponenciación, todo en una ecuación ridículamente elegante y simple.",
           "timestamp": 1794681891718
+        },
+        {
+          "role": "user",
+          "content": "cuanto es, la velocidad del sonido, por la velocidad de la luz, por la velocidad del autobus de maxima velocidad?",
+          "timestamp": 1794681967182
+        },
+        {
+          "role": "assistant",
+          "content": "$343 \\times 299,792,458 \\times 69.44 \\approx 7.14 \\times",
+          "timestamp": 1794681973169
         }
       ]
     }
