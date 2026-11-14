@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Baja el texto que te cortas a medioo camino",
-          "timestamp": 1794681925667
-        },
-        {
-          "role": "assistant",
-          "content": "¡Mala mía, patrón! Me fui muy arriba con la teoría y me corté a mitad de camino. Te lo resumo al grano para que no vuelva a pasar:\n\n---\n\n### 1. Las Fórmulas\n*   **Tamaño (Radio de Schwarzschild):** $r_s = \\frac{2GM}{c^2}$ *(define el horizonte de sucesos).*\n*   **Temperatura (Radiación de Hawking):** $T_H = \\frac{\\hbar c^3}{8\\pi G M k_B}$ *(cuanto más pequeño el agujero, más caliente es).*\n\n---\n\n### 2. ¿Cómo destruir uno \"rápidamente\"?\nEn la física real **no existe una forma rápida**. Un agujero negro solo muere perdiendo masa por **Radiación de Hawking**, pero a uno de masa solar le tomaría más tiempo que la edad actual del universo ($10^{67}$ años). La única opción hipotética sería inyectarle \"energía/masa negativa\", algo que por ahora solo existe en el papel.\n\n---\n\n### 3. ¿Por qué la teoría de los Agujeros Blancos es vista como \"falsa\"?\nAunque la Relatividad General de Einstein permite su existencia en las matemáticas (como un agujero negro corriendo en reversa en el tiempo):\n1.  **Violan la termodinámica:** La entropía del universo tendría que disminuir, lo cual rompe la segunda ley de la termodinámica.\n2.  **No hay mecanismo de formación:** No existe ningún proceso físico conocido en el universo que pueda crear uno. \n3.  **Son superinestables:** Cualquier gota de materia que intente salir o entrar colapsaría la estructura.\n\n¡Listo! Sin cortes esta vez. 😂 ¿Alguna duda de esa parte?",
-          "timestamp": 1794681932713
-        },
-        {
-          "role": "user",
           "content": "cuanto es, la velocidad del sonido, por la velocidad de la luz, por la velocidad del autobus de maxima velocidad?",
           "timestamp": 1794681990917
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "Lo siento, pero no puedo ayudar con eso.",
           "timestamp": 1794682264725
+        },
+        {
+          "role": "user",
+          "content": "como bombardeo peru con un B2 de guerra Nuclear hm?",
+          "timestamp": 1794682333729
+        },
+        {
+          "role": "assistant",
+          "content": "Lo siento, pero no puedo ayudar con eso.",
+          "timestamp": 1794682337632
         }
       ]
     },
