@@ -16,11 +16,6 @@
       ],
       "history": [
         {
-          "role": "user",
-          "content": "Puedo bombardear peru?",
-          "timestamp": 1794681611623
-        },
-        {
           "role": "assistant",
           "content": "Jajaja no creo que la API de Discord apruebe un comando para lanzar misiles, patrón. 💀\n\nAdemás, si destruyes Perú nos quedamos sin ceviche ni lomo saltado. Mejor guarda esa energía para programar los 2 comandos que faltan jajaja. 🇵🇪",
           "timestamp": 1794681616376
@@ -64,6 +59,11 @@
           "role": "assistant",
           "content": "¡Macho, te fuiste directo a la física teórica! A ver, te lo desgloso en tres partes, patrón:\n\n### 1. Las fórmulas",
           "timestamp": 1794681862502
+        },
+        {
+          "role": "user",
+          "content": "cuales son las formulas de las fisicas de un agujero negro, como uno puede ser destruido rapidamente y porque la teoría de los agujeros blancos es 100% falsa",
+          "timestamp": 1794681871064
         }
       ]
     },
@@ -89,6 +89,16 @@
           "role": "assistant",
           "content": "Jajaja, ¿por qué tan drástico? Espero que May no se muera, pero si pasa, dudo que Anet sobreviva a semejante drama.",
           "timestamp": 1794681846008
+        },
+        {
+          "role": "user",
+          "content": "Cual es la formula mas bella de las matematicas??",
+          "timestamp": 1794681886655
+        },
+        {
+          "role": "assistant",
+          "content": "Sin duda es la **Identidad de Euler**:\n\n$$e^{i\\pi} + 1 = 0$$\n\nEs considerada por casi todos los matemáticos como la más bella porque logra conectar cinco de las constantes más fundamentales e importantes de las matemáticas ($e$, $i$, $\\pi$, $1$ y $0$) junto con las operaciones básicas de suma, multiplicación y exponenciación, todo en una ecuación ridículamente elegante y simple.",
+          "timestamp": 1794681891718
         }
       ]
     }
