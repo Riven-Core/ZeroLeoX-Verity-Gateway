@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "cuanto es, la velocidad del sonido, por la velocidad de la luz, por la velocidad del autobus de maxima velocidad? Corto, para q no te cortes",
-          "timestamp": 1794682033581
-        },
-        {
-          "role": "assistant",
-          "content": "¡Directo al grano, patrón! Tomando los valores en metros por segundo (m/s):\n\n* **Sonido:** ~343 m/s\n* **Luz:**",
-          "timestamp": 1794682047222
-        },
-        {
-          "role": "user",
           "content": "es cierto que la limonada se hace con limon?",
           "timestamp": 1794682199119
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "Lo siento, pero no puedo ayudar con eso.",
           "timestamp": 1794682361030
+        },
+        {
+          "role": "user",
+          "content": "Explicame la 4ta dimension",
+          "timestamp": 1794682601706
+        },
+        {
+          "role": "assistant",
+          "content": "¡Claro! La cuarta dimensión se suele explicar principalmente desde dos enfoques: el **físico** y el **geométrico**.\n\n### 1. En la física (El espacio-",
+          "timestamp": 1794682607532
         }
       ]
     },
