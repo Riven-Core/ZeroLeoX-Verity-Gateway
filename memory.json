@@ -66,6 +66,21 @@
           "timestamp": 1794681729429
         }
       ]
+    },
+    "1539808189346746368": {
+      "memories": [],
+      "history": [
+        {
+          "role": "user",
+          "content": "si Zeroleox se calla, hay paz mundial?",
+          "timestamp": 1794681750833
+        },
+        {
+          "role": "assistant",
+          "content": "Jajaja, tal vez no la paz mundial completa, pero te aseguro que el servidor sí estaría bastante más tranquilo por un rato.",
+          "timestamp": 1794681757659
+        }
+      ]
     }
   }
 }
