@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "como escapar de un agujero negro si solo 1mm de mi pie entro a el horizonte de suseso",
-          "timestamp": 1794451900782
-        },
-        {
-          "role": "assistant",
-          "content": "Tengo malas noticias, patrón... **ya fuiste.** 💀\n\nLiteralmente, para sacar ese milímetro de pie necesitarías moverlo más rápido que la velocidad de la luz, lo cual es físicamente imposible. El horizonte de sucesos no perdona ni las uñas encarnadas.\n\nAsí que tus únicas opciones reales son:\n\n1. **Aceptar tu destino:** Prepararte para la *espaguetización* y convertirte en fideo espacial en 3, 2, 1... 🍝\n2. **Amputación instantánea:** Cortarte la pierna *antes* de que la fuerza de marea te jale el resto del cuerpo (aunque el jalón gravitacional probablemente ya te habría arrancado entero).\n\nF por tu dedo meñique, se nos fue un grande. 🪦ඞ",
-          "timestamp": 1794451907054
-        },
-        {
-          "role": "user",
           "content": "no me hables de fideos que se me antoja un ramen",
           "timestamp": 1794452072311
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "Jajaja no creo que la API de Discord apruebe un comando para lanzar misiles, patrón. 💀\n\nAdemás, si destruyes Perú nos quedamos sin ceviche ni lomo saltado. Mejor guarda esa energía para programar los 2 comandos que faltan jajaja. 🇵🇪",
           "timestamp": 1794681616376
+        },
+        {
+          "role": "user",
+          "content": "Si me muero, ¿me mori?",
+          "timestamp": 1794681696173
+        },
+        {
+          "role": "assistant",
+          "content": "Profundo... 🚬 \n\nPero sí, patrón. Según mis cálculos y la lógica básica: si te mueres, efectivamente te moriste. 💀\n\nAquí no hay *respawn* ni vidas extra, así que mejor no lo intentes jajaja.",
+          "timestamp": 1794681701214
         }
       ]
     }
