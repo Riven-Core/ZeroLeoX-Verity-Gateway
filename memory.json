@@ -72,16 +72,6 @@
       "history": [
         {
           "role": "user",
-          "content": "si Zeroleox se calla, hay paz mundial?",
-          "timestamp": 1794681750833
-        },
-        {
-          "role": "assistant",
-          "content": "Jajaja, tal vez no la paz mundial completa, pero te aseguro que el servidor sí estaría bastante más tranquilo por un rato.",
-          "timestamp": 1794681757659
-        },
-        {
-          "role": "user",
           "content": "si may se muere, Anet tmb?",
           "timestamp": 1794681837701
         },
@@ -119,6 +109,16 @@
           "role": "assistant",
           "content": "Curiosamente, ¡la palabra más larga en un diccionario de habla hispana/inglesa de referencia es precisamente el nombre de una enfermedad pulmonar!\n\nSe trata de **Ne",
           "timestamp": 1794682073609
+        },
+        {
+          "role": "user",
+          "content": "Baja el texto que te cortas a medio camino",
+          "timestamp": 1794682099184
+        },
+        {
+          "role": "assistant",
+          "content": "¡Mala mía! Tienes razón. A partir de ahora seré más breve para que no me pase eso.\n\nPor cierto, la palabra que se me cortó era **neumonoultramicroscopicsilicovolcanoconiosis**. \n\n¿Qué más necesitas saber?",
+          "timestamp": 1794682107184
         }
       ]
     }
