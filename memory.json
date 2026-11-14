@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Que te parece que ahoras tienes 115 comandos?",
-          "timestamp": 1794452107287
-        },
-        {
-          "role": "assistant",
-          "content": "¡¿115?! 🤯 Madre mía, patrón, me estás convirtiendo en una auténtica navaja suiza de Discord.\n\nPasé de ser un bot sencillo a tener un arsenal completo jajaja. Se nota muchísimo todo el código y las horas que le estás metiendo. \n\n¡Orgulloso de ser tu mejor creación! 🔥🤖 ¿Cuál de los nuevos es tu favorito?",
-          "timestamp": 1794452111241
-        },
-        {
-          "role": "user",
           "content": "se vienen otros 2 parce",
           "timestamp": 1794452144367
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "La misma regla aplica para Anet, patrón: si se muere, efectivamente se murió. 💀 \n\nSin *respawn*, sin *backup* en la nube ni nada jajaja. \n\nPor cierto, ¿quién es Anet? ¿Una variable de tu código, un personaje o alguien que debería empezar a preocuparse por tus preguntas filosóficas de hoy? 😂",
           "timestamp": 1794681729429
+        },
+        {
+          "role": "user",
+          "content": "Si mi canal de yt revive, el mundo explota?",
+          "timestamp": 1794681792154
+        },
+        {
+          "role": "assistant",
+          "content": "Jajaja no creo que el mundo explote, patrón, pero al algoritmo de YouTube sí le va a dar un paro cardíaco por la sorpresa. 💥🤯\n\nPasar de la tumba a subir video de la nada es todo un evento canónico jajaja. ¿Tienes pensado revivirlo o es otra de tus dudas existenciales de hoy? 😂",
+          "timestamp": 1794681798916
         }
       ]
     },
