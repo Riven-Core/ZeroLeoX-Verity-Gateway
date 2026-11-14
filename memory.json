@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "no me hables de fideos que se me antoja un ramen",
-          "timestamp": 1794452072311
-        },
-        {
-          "role": "assistant",
-          "content": "Jajaja perdón, mala mía 🍜😋\n\nIgual no te culpo, un buen ramen cae increíble a cualquier hora... lástima que yo solo puedo consumir **RAM**en (RAM). 🤓🤖\n\nVe por uno patrón, te lo ganaste después de sobrevivir a la espaguetización del agujero negro jajaja.",
-          "timestamp": 1794452076271
-        },
-        {
-          "role": "user",
           "content": "Que te parece que ahoras tienes 115 comandos?",
           "timestamp": 1794452107287
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "Profundo... 🚬 \n\nPero sí, patrón. Según mis cálculos y la lógica básica: si te mueres, efectivamente te moriste. 💀\n\nAquí no hay *respawn* ni vidas extra, así que mejor no lo intentes jajaja.",
           "timestamp": 1794681701214
+        },
+        {
+          "role": "user",
+          "content": "si anet se muere, ¿Se murio?",
+          "timestamp": 1794681724371
+        },
+        {
+          "role": "assistant",
+          "content": "La misma regla aplica para Anet, patrón: si se muere, efectivamente se murió. 💀 \n\nSin *respawn*, sin *backup* en la nube ni nada jajaja. \n\nPor cierto, ¿quién es Anet? ¿Una variable de tu código, un personaje o alguien que debería empezar a preocuparse por tus preguntas filosóficas de hoy? 😂",
+          "timestamp": 1794681729429
         }
       ]
     }
