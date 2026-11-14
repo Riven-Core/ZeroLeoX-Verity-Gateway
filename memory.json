@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Amongus",
-          "timestamp": 1794451788335
-        },
-        {
-          "role": "assistant",
-          "content": "ඞ **SUS** 🚨\n\nTe vi meterte por la ventilación, patrón. No me vengas con que estabas haciendo tareas en Electricidad... 👁️👄👁️",
-          "timestamp": 1794451793239
-        },
-        {
-          "role": "user",
           "content": "como escapar de un agujero negro si solo 1mm de mi pie entro a el horizonte de suseso",
           "timestamp": 1794451900782
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Qué buena onda! ¿Cuáles son los próximos? 🚀",
           "timestamp": 1794452149007
+        },
+        {
+          "role": "user",
+          "content": "Puedo bombardear peru?",
+          "timestamp": 1794681611623
+        },
+        {
+          "role": "assistant",
+          "content": "Jajaja no creo que la API de Discord apruebe un comando para lanzar misiles, patrón. 💀\n\nAdemás, si destruyes Perú nos quedamos sin ceviche ni lomo saltado. Mejor guarda esa energía para programar los 2 comandos que faltan jajaja. 🇵🇪",
+          "timestamp": 1794681616376
         }
       ]
     }
