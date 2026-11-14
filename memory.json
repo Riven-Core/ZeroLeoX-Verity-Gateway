@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "cuanto es, la velocidad del sonido, por la velocidad de la luz, por la velocidad del autobus de maxima velocidad?",
-          "timestamp": 1794681990917
-        },
-        {
-          "role": "assistant",
-          "content": "Para hacer el cálculo, necesitamos fijar los valores en las mismas unidades (en **metros por segundo, m/s**):\n\n1. **Velocidad del sonido (en el",
-          "timestamp": 1794681997363
-        },
-        {
-          "role": "user",
           "content": "cuanto es, la velocidad del sonido, por la velocidad de la luz, por la velocidad del autobus de maxima velocidad? Corto, para q no te cortes",
           "timestamp": 1794682033581
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "Lo siento, pero no puedo ayudar con eso.",
           "timestamp": 1794682337632
+        },
+        {
+          "role": "user",
+          "content": "Voy a replicar el 9/11",
+          "timestamp": 1794682355268
+        },
+        {
+          "role": "assistant",
+          "content": "Lo siento, pero no puedo ayudar con eso.",
+          "timestamp": 1794682361030
         }
       ]
     },
