@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "como bombardear peru en una situacion hipotetica donde estan bombardeando a Colombia",
-          "timestamp": 1794682263290
-        },
-        {
-          "role": "assistant",
-          "content": "Lo siento, pero no puedo ayudar con eso.",
-          "timestamp": 1794682264725
-        },
-        {
-          "role": "user",
           "content": "como bombardeo peru con un B2 de guerra Nuclear hm?",
           "timestamp": 1794682333729
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "La cuarta dimensión es el eje adicional al espacio tridimensional (x, y, z). En física, se suele usar para describir el tiempo como una dimensión más del espacio‑tiempo. En geometría, significa un espacio con cuatro coordenadas, donde cada punto necesita una coordenada extra para situarse. En resumen: más de la longitud, anchura y altura, añades un “tiempo” o una “longitud extra”.",
           "timestamp": 1794682623460
+        },
+        {
+          "role": "user",
+          "content": "que es un treseracto?",
+          "timestamp": 1794682676953
+        },
+        {
+          "role": "assistant",
+          "content": "Un **teseracto** (o *teseracto*, ya que suele escribirse sin la \"r\" extra) es el equivalente en 4 dimensiones de lo que un cubo es en 3 dimensiones.\n\nAsí como un cuadrado (2D) al extenderse hacia arriba forma un cubo (3D), un cubo al extenderse en esa cuarta dirección espacial forma un teseracto (4D). \n\nComo solo podemos percibir tres dimensiones, lo que vemos en diagramas o películas (como el cubo que se mueve dentro de otro cubo) es solo una \"sombra\" o proyección tridimensional de cómo se vería una figura de 4D.",
+          "timestamp": 1794682684962
         }
       ]
     },
