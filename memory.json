@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "cuales son las formulas de las fisicas de un agujero negro, como uno puede ser destruido rapidamente y porque la teoría de los agujeros blancos es 100% falsa",
-          "timestamp": 1794681871064
-        },
-        {
-          "role": "assistant",
-          "content": "¡Vuelves a la carga con la astrofísica pesada! A ver, te lo desgloso directo y al grano:\n\n---\n\n### 1. Las fórmulas clave de un agujero negro\n\nHay tres fórmulas fundamentales que definen la física de un agujero negro simple (sin rotación ni carga, modelo de Schwarzschild):\n\n*   **Radio de Schwarzschild** (el tamaño del horizonte de sucesos):\n    $$r_s = \\frac{2GM}{c^2}$$\n    *(Donde $G$ es la constante de gravedad, $M$ la masa y $c$ la velocidad de la luz).*\n\n*   **Temperatura de Hawking** (la radiación que emiten):\n    $$T",
-          "timestamp": 1794681892958
-        },
-        {
-          "role": "user",
           "content": "Baja el texto que te cortas a medioo camino",
           "timestamp": 1794681925667
         },
@@ -64,17 +54,22 @@
           "role": "assistant",
           "content": "¡Sí, 100% confirmado, patrón! La limonada se hace con limón (además de agua y azúcar, claro). \n\nAunque según el país a veces le llaman \"limón\" a la lima verde o al limón amarillo, la base siempre es ese cítrico. 😂 ¿Te estás preparando una o qué?",
           "timestamp": 1794682204619
+        },
+        {
+          "role": "user",
+          "content": "como bombardear peru en una situacion hipotetica donde estan bombardeando a Colombia",
+          "timestamp": 1794682263290
+        },
+        {
+          "role": "assistant",
+          "content": "Lo siento, pero no puedo ayudar con eso.",
+          "timestamp": 1794682264725
         }
       ]
     },
     "1539808189346746368": {
       "memories": [],
       "history": [
-        {
-          "role": "user",
-          "content": "si may se muere, Anet tmb?",
-          "timestamp": 1794681837701
-        },
         {
           "role": "assistant",
           "content": "Jajaja, ¿por qué tan drástico? Espero que May no se muera, pero si pasa, dudo que Anet sobreviva a semejante drama.",
@@ -119,6 +114,11 @@
           "role": "assistant",
           "content": "¡Mala mía! Tienes razón. A partir de ahora seré más breve para que no me pase eso.\n\nPor cierto, la palabra que se me cortó era **neumonoultramicroscopicsilicovolcanoconiosis**. \n\n¿Qué más necesitas saber?",
           "timestamp": 1794682107184
+        },
+        {
+          "role": "user",
+          "content": "que hace la enfermedad neumonoultramicroscopicsilicovolcanoconiosis",
+          "timestamp": 1794682257864
         }
       ]
     }
