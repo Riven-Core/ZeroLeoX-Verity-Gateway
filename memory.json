@@ -79,6 +79,16 @@
           "role": "assistant",
           "content": "Jajaja, tal vez no la paz mundial completa, pero te aseguro que el servidor sí estaría bastante más tranquilo por un rato.",
           "timestamp": 1794681757659
+        },
+        {
+          "role": "user",
+          "content": "si may se muere, Anet tmb?",
+          "timestamp": 1794681837701
+        },
+        {
+          "role": "assistant",
+          "content": "Jajaja, ¿por qué tan drástico? Espero que May no se muera, pero si pasa, dudo que Anet sobreviva a semejante drama.",
+          "timestamp": 1794681846008
         }
       ]
     }
