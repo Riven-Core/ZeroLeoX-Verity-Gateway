@@ -71,11 +71,6 @@
       "memories": [],
       "history": [
         {
-          "role": "assistant",
-          "content": "Jajaja, ¿por qué tan drástico? Espero que May no se muera, pero si pasa, dudo que Anet sobreviva a semejante drama.",
-          "timestamp": 1794681846008
-        },
-        {
           "role": "user",
           "content": "Cual es la formula mas bella de las matematicas??",
           "timestamp": 1794681886655
@@ -119,6 +114,11 @@
           "role": "user",
           "content": "que hace la enfermedad neumonoultramicroscopicsilicovolcanoconiosis",
           "timestamp": 1794682257864
+        },
+        {
+          "role": "assistant",
+          "content": "Es básicamente una forma de **silicosis**. Ocurre cuando una persona inhala partículas extremadamente finas de polvo de sílice o ceniza, generalmente tras la erupción de un volcán.\n\nEsas partículas tan diminutas se quedan atrapadas en los pulmones, lo que provoca **inflamación grave y cicatrización del tejido pulmonar** (fibrosis). Con el tiempo, esto causa dificultad para respirar, tos crónica, dolor en el pecho y reduce gravemente la capacidad pulmonar.",
+          "timestamp": 1794682277443
         }
       ]
     }
