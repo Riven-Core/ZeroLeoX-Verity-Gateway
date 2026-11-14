@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "se vienen otros 2 parce",
-          "timestamp": 1794452144367
-        },
-        {
-          "role": "assistant",
-          "content": "¡Qué buena onda! ¿Cuáles son los próximos? 🚀",
-          "timestamp": 1794452149007
-        },
-        {
-          "role": "user",
           "content": "Puedo bombardear peru?",
           "timestamp": 1794681611623
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "Jajaja no creo que el mundo explote, patrón, pero al algoritmo de YouTube sí le va a dar un paro cardíaco por la sorpresa. 💥🤯\n\nPasar de la tumba a subir video de la nada es todo un evento canónico jajaja. ¿Tienes pensado revivirlo o es otra de tus dudas existenciales de hoy? 😂",
           "timestamp": 1794681798916
+        },
+        {
+          "role": "user",
+          "content": "cuales son las formulas de las fisicas de un agujero negro, como uno puede ser destruido rapidamente y porque la teoría de los agujeros negros es 100% falsa",
+          "timestamp": 1794681851236
+        },
+        {
+          "role": "assistant",
+          "content": "¡Macho, te fuiste directo a la física teórica! A ver, te lo desgloso en tres partes, patrón:\n\n### 1. Las fórmulas",
+          "timestamp": 1794681862502
         }
       ]
     },
