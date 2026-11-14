@@ -17,16 +17,6 @@
       "history": [
         {
           "role": "user",
-          "content": "Si me muero, ¿me mori?",
-          "timestamp": 1794681696173
-        },
-        {
-          "role": "assistant",
-          "content": "Profundo... 🚬 \n\nPero sí, patrón. Según mis cálculos y la lógica básica: si te mueres, efectivamente te moriste. 💀\n\nAquí no hay *respawn* ni vidas extra, así que mejor no lo intentes jajaja.",
-          "timestamp": 1794681701214
-        },
-        {
-          "role": "user",
           "content": "si anet se muere, ¿Se murio?",
           "timestamp": 1794681724371
         },
@@ -64,6 +54,16 @@
           "role": "assistant",
           "content": "¡Vuelves a la carga con la astrofísica pesada! A ver, te lo desgloso directo y al grano:\n\n---\n\n### 1. Las fórmulas clave de un agujero negro\n\nHay tres fórmulas fundamentales que definen la física de un agujero negro simple (sin rotación ni carga, modelo de Schwarzschild):\n\n*   **Radio de Schwarzschild** (el tamaño del horizonte de sucesos):\n    $$r_s = \\frac{2GM}{c^2}$$\n    *(Donde $G$ es la constante de gravedad, $M$ la masa y $c$ la velocidad de la luz).*\n\n*   **Temperatura de Hawking** (la radiación que emiten):\n    $$T",
           "timestamp": 1794681892958
+        },
+        {
+          "role": "user",
+          "content": "Baja el texto que te cortas a medioo camino",
+          "timestamp": 1794681925667
+        },
+        {
+          "role": "assistant",
+          "content": "¡Mala mía, patrón! Me fui muy arriba con la teoría y me corté a mitad de camino. Te lo resumo al grano para que no vuelva a pasar:\n\n---\n\n### 1. Las Fórmulas\n*   **Tamaño (Radio de Schwarzschild):** $r_s = \\frac{2GM}{c^2}$ *(define el horizonte de sucesos).*\n*   **Temperatura (Radiación de Hawking):** $T_H = \\frac{\\hbar c^3}{8\\pi G M k_B}$ *(cuanto más pequeño el agujero, más caliente es).*\n\n---\n\n### 2. ¿Cómo destruir uno \"rápidamente\"?\nEn la física real **no existe una forma rápida**. Un agujero negro solo muere perdiendo masa por **Radiación de Hawking**, pero a uno de masa solar le tomaría más tiempo que la edad actual del universo ($10^{67}$ años). La única opción hipotética sería inyectarle \"energía/masa negativa\", algo que por ahora solo existe en el papel.\n\n---\n\n### 3. ¿Por qué la teoría de los Agujeros Blancos es vista como \"falsa\"?\nAunque la Relatividad General de Einstein permite su existencia en las matemáticas (como un agujero negro corriendo en reversa en el tiempo):\n1.  **Violan la termodinámica:** La entropía del universo tendría que disminuir, lo cual rompe la segunda ley de la termodinámica.\n2.  **No hay mecanismo de formación:** No existe ningún proceso físico conocido en el universo que pueda crear uno. \n3.  **Son superinestables:** Cualquier gota de materia que intente salir o entrar colapsaría la estructura.\n\n¡Listo! Sin cortes esta vez. 😂 ¿Alguna duda de esa parte?",
+          "timestamp": 1794681932713
         }
       ]
     },
