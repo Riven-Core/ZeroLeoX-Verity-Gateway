@@ -16,11 +16,6 @@
       ],
       "history": [
         {
-          "role": "assistant",
-          "content": "Jajaja no creo que la API de Discord apruebe un comando para lanzar misiles, patrón. 💀\n\nAdemás, si destruyes Perú nos quedamos sin ceviche ni lomo saltado. Mejor guarda esa energía para programar los 2 comandos que faltan jajaja. 🇵🇪",
-          "timestamp": 1794681616376
-        },
-        {
           "role": "user",
           "content": "Si me muero, ¿me mori?",
           "timestamp": 1794681696173
@@ -64,6 +59,11 @@
           "role": "user",
           "content": "cuales son las formulas de las fisicas de un agujero negro, como uno puede ser destruido rapidamente y porque la teoría de los agujeros blancos es 100% falsa",
           "timestamp": 1794681871064
+        },
+        {
+          "role": "assistant",
+          "content": "¡Vuelves a la carga con la astrofísica pesada! A ver, te lo desgloso directo y al grano:\n\n---\n\n### 1. Las fórmulas clave de un agujero negro\n\nHay tres fórmulas fundamentales que definen la física de un agujero negro simple (sin rotación ni carga, modelo de Schwarzschild):\n\n*   **Radio de Schwarzschild** (el tamaño del horizonte de sucesos):\n    $$r_s = \\frac{2GM}{c^2}$$\n    *(Donde $G$ es la constante de gravedad, $M$ la masa y $c$ la velocidad de la luz).*\n\n*   **Temperatura de Hawking** (la radiación que emiten):\n    $$T",
+          "timestamp": 1794681892958
         }
       ]
     },
