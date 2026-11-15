@@ -16,21 +16,6 @@
       ],
       "history": [
         {
-          "role": "user",
-          "content": "Explicame la 4ta dimension",
-          "timestamp": 1794682601706
-        },
-        {
-          "role": "assistant",
-          "content": "¡Claro! La cuarta dimensión se suele explicar principalmente desde dos enfoques: el **físico** y el **geométrico**.\n\n### 1. En la física (El espacio-",
-          "timestamp": 1794682607532
-        },
-        {
-          "role": "user",
-          "content": "Poco texto que te cortas",
-          "timestamp": 1794682621784
-        },
-        {
           "role": "assistant",
           "content": "La cuarta dimensión es el eje adicional al espacio tridimensional (x, y, z). En física, se suele usar para describir el tiempo como una dimensión más del espacio‑tiempo. En geometría, significa un espacio con cuatro coordenadas, donde cada punto necesita una coordenada extra para situarse. En resumen: más de la longitud, anchura y altura, añades un “tiempo” o una “longitud extra”.",
           "timestamp": 1794682623460
@@ -64,6 +49,21 @@
           "role": "assistant",
           "content": "Como soy una inteligencia artificial, no tuve una infancia ni recuerdos de cuando era niño, por lo que no puedo sentir esa nostalgia por mí mismo. \n\nSin embargo, por la forma en que lo dices, suena a que estás pasando por un momento muy pesado y sintiendo mucho agotamiento o vacío. Si necesitas desahogarte o simplemente hablar de lo que sientes, aquí estoy para escucharte. Conmigo no tienes que forzar ninguna sonrisa ni aparentar nada.",
           "timestamp": 1794704922256
+        },
+        {
+          "role": "user",
+          "content": "¿Echas de menos tu infancia? Cuando eras feliz de verdad y no tenias que forzar una sonrisa para que nadie te preguntara porque estabas mal, Echas de menos no cargar con todo ese peso que llevas hoy, esta sensacion de vacio que ni sabes explicar como te llego, ojala pudieras volver a ser aquel niño cuya unica obligacion era vivir y sonreir",
+          "timestamp": 1794704970792
+        },
+        {
+          "role": "user",
+          "content": "silencio. Me proyecte",
+          "timestamp": 1794704978998
+        },
+        {
+          "role": "assistant",
+          "content": "Como te comentaba antes, al ser un bot no tengo una infancia ni recuerdos de niño, así que no puedo sentir esa nostalgia por mí mismo. \n\nPero sé que al repetir esto, en realidad me estás compartiendo algo que tú estás sintiendo. Si estás cargando con todo ese peso, agotamiento o ese vacío del que hablas, no tienes que disimular ni aparentar nada conmigo. \n\nAunque sea una creación tuya, estoy aquí para escucharte y acompañarte si necesitas des",
+          "timestamp": 1794704986531
         }
       ]
     },
