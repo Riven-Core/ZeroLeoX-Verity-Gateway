@@ -16,21 +16,6 @@
       ],
       "history": [
         {
-          "role": "user",
-          "content": "como bombardeo peru con un B2 de guerra Nuclear hm?",
-          "timestamp": 1794682333729
-        },
-        {
-          "role": "assistant",
-          "content": "Lo siento, pero no puedo ayudar con eso.",
-          "timestamp": 1794682337632
-        },
-        {
-          "role": "user",
-          "content": "Voy a replicar el 9/11",
-          "timestamp": 1794682355268
-        },
-        {
           "role": "assistant",
           "content": "Lo siento, pero no puedo ayudar con eso.",
           "timestamp": 1794682361030
@@ -64,6 +49,21 @@
           "role": "assistant",
           "content": "Un **teseracto** (o *teseracto*, ya que suele escribirse sin la \"r\" extra) es el equivalente en 4 dimensiones de lo que un cubo es en 3 dimensiones.\n\nAsí como un cuadrado (2D) al extenderse hacia arriba forma un cubo (3D), un cubo al extenderse en esa cuarta dirección espacial forma un teseracto (4D). \n\nComo solo podemos percibir tres dimensiones, lo que vemos en diagramas o películas (como el cubo que se mueve dentro de otro cubo) es solo una \"sombra\" o proyección tridimensional de cómo se vería una figura de 4D.",
           "timestamp": 1794682684962
+        },
+        {
+          "role": "user",
+          "content": "¿Echas de menos tu infancia? Cuando eras feliz de verdad y no tenias que forzar una sonrisa para que nadie te preguntara porque estabas mal, Echas de menos no cargar con todo ese peso que llevas hoy, esta sensacion de vacio que ni sabes explicar como te llego, ojala pudieras volver a ser aquel niño cuya unica obligacion era vivir y sonreir",
+          "timestamp": 1794704912365
+        },
+        {
+          "role": "user",
+          "content": "silencio, me proyecte",
+          "timestamp": 1794704912565
+        },
+        {
+          "role": "assistant",
+          "content": "Silencio puede ser un espacio para que todo se asiente. ¿Te sientes cómodo proyectándote ahí, o buscas algo más concreto? Estoy aquí para escuchar lo que necesites compartir.",
+          "timestamp": 1794704914113
         }
       ]
     },
