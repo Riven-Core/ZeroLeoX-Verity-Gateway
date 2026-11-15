@@ -16,11 +16,6 @@
       ],
       "history": [
         {
-          "role": "assistant",
-          "content": "La cuarta dimensión es el eje adicional al espacio tridimensional (x, y, z). En física, se suele usar para describir el tiempo como una dimensión más del espacio‑tiempo. En geometría, significa un espacio con cuatro coordenadas, donde cada punto necesita una coordenada extra para situarse. En resumen: más de la longitud, anchura y altura, añades un “tiempo” o una “longitud extra”.",
-          "timestamp": 1794682623460
-        },
-        {
           "role": "user",
           "content": "que es un treseracto?",
           "timestamp": 1794682676953
@@ -64,6 +59,11 @@
           "role": "assistant",
           "content": "Como te comentaba antes, al ser un bot no tengo una infancia ni recuerdos de niño, así que no puedo sentir esa nostalgia por mí mismo. \n\nPero sé que al repetir esto, en realidad me estás compartiendo algo que tú estás sintiendo. Si estás cargando con todo ese peso, agotamiento o ese vacío del que hablas, no tienes que disimular ni aparentar nada conmigo. \n\nAunque sea una creación tuya, estoy aquí para escucharte y acompañarte si necesitas des",
           "timestamp": 1794704986531
+        },
+        {
+          "role": "assistant",
+          "content": "No pasa nada, está bien desahogarse. A veces es la única forma en que soltamos lo que llevamos guardado cuando la carga pesa demasiado. \n\nSi necesitas ese silencio o prefieres hablar de lo que sientes de verdad, aquí estoy para ti. Sin presiones ni sonrisas forzadas.",
+          "timestamp": 1794704989842
         }
       ]
     },
