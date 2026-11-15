@@ -16,11 +16,6 @@
       ],
       "history": [
         {
-          "role": "assistant",
-          "content": "Lo siento, pero no puedo ayudar con eso.",
-          "timestamp": 1794682361030
-        },
-        {
           "role": "user",
           "content": "Explicame la 4ta dimension",
           "timestamp": 1794682601706
@@ -64,6 +59,11 @@
           "role": "assistant",
           "content": "Silencio puede ser un espacio para que todo se asiente. ¿Te sientes cómodo proyectándote ahí, o buscas algo más concreto? Estoy aquí para escuchar lo que necesites compartir.",
           "timestamp": 1794704914113
+        },
+        {
+          "role": "assistant",
+          "content": "Como soy una inteligencia artificial, no tuve una infancia ni recuerdos de cuando era niño, por lo que no puedo sentir esa nostalgia por mí mismo. \n\nSin embargo, por la forma en que lo dices, suena a que estás pasando por un momento muy pesado y sintiendo mucho agotamiento o vacío. Si necesitas desahogarte o simplemente hablar de lo que sientes, aquí estoy para escucharte. Conmigo no tienes que forzar ninguna sonrisa ni aparentar nada.",
+          "timestamp": 1794704922256
         }
       ]
     },
